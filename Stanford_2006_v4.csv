@@ -1,0 +1,1001 @@
+student_no,school,subschool,degree,degree_conferred_date,name,firstname,middlename,lastname,major,city,state,country,Departmental HoNors Program,With Distinction,birthyear
+1,Stanford University,School of Earth Sciences,Bachelor of Science,"September 29, 2005",Clayton Toon Coker,Clayton,Toon,Coker,Earth Systems,Palo Alto,California,,No,No,1984
+2,Stanford University,School of Earth Sciences,Bachelor of Science,"September 29, 2005",Orion Irie Lakota,Orion,Irie,Lakota,Geological and Environmental Sciences,Palo Alto,California,,No,No,1984
+3,Stanford University,School of Earth Sciences,Bachelor of Science,"September 29, 2005",Andreana Marie Reeves,Andreana,Marie,Reeves,Earth Systems,Palo Alto,California,,No,No,1984
+4,Stanford University,School of Earth Sciences,Bachelor of Science,"September 29, 2005",Julia Lee Rosen,Julia,Lee,Rosen,Geological and Environmental Sciences,Palo Alto,California,,Yes,Yes,1984
+5,Stanford University,School of Earth Sciences,Bachelor of Science,"January 12, 2006",Stephanie Marie Abegg,Stephanie,Marie,Abegg,Geological and Environmental Sciences,Palo Alto,California,Canada,No,Yes,1984
+6,Stanford University,School of Earth Sciences,Bachelor of Science,"January 12, 2006",Jessica Lynn Avila,Jessica,Lynn,Avila,Geological and Environmental Sciences,Palo Alto,California,,No,No,1984
+7,Stanford University,School of Earth Sciences,Bachelor of Science,"January 12, 2006",Kristina Anne Betzold,Kristina,Anne,Betzold,Geological and Environmental Sciences,Palo Alto,California,,No,No,1984
+8,Stanford University,School of Earth Sciences,Bachelor of Science,"January 12, 2006",Dianna Stephawn Ferrand,Dianna,Stephawn,Ferrand,Geological and Environmental Sciences,Palo Alto,California,,No,No,1984
+9,Stanford University,School of Earth Sciences,Bachelor of Science,"January 12, 2006",Jason Grant Gladden,Jason,Grant,Gladden,Geological and Environmental Sciences,Palo Alto,California,,No,No,1984
+10,Stanford University,School of Earth Sciences,Bachelor of Science,"January 12, 2006",Hannah Rene Griego,Hannah,Rene,Griego,Earth Systems,Palo Alto,California,,"Interdisciplinary Honors Program in Environmental Science, Technology, and Policy",No,1984
+11,Stanford University,School of Earth Sciences,Bachelor of Science,"January 12, 2006",John David Juarez,John,David,Juarez,Earth Systems,Palo Alto,California,,No,No,1984
+12,Stanford University,School of Earth Sciences,Bachelor of Science,"January 12, 2006",Lyndsie R. Schmalz,Lyndsie,R.,Schmalz,Geological and Environmental Sciences,Palo Alto,California,,No,No,1984
+13,Stanford University,School of Earth Sciences,Bachelor of Science,"January 12, 2006",Lyndsey Diane Toeppen,Lyndsey,Diane,Toeppen,Earth Systems,Palo Alto,California,,No,No,1984
+14,Stanford University,School of Earth Sciences,Bachelor of Science,"January 12, 2006",Joshua White Traube,Joshua,White,Traube,Earth Systems,Palo Alto,California,,No,No,1984
+15,Stanford University,School of Earth Sciences,Bachelor of Science,"April 6, 2006",May Cowles,May,,Cowles,Earth Systems,Palo Alto,California,,No,No,1984
+16,Stanford University,School of Earth Sciences,Bachelor of Science,"June 18, 2006",Lauren Anne Casey,Lauren,Anne,Casey,Earth Systems,Palo Alto,California,,No,No,1984
+17,Stanford University,School of Earth Sciences,Bachelor of Science,"June 18, 2006",Yeqing Lily Cheng,Yeqing,Lily,Cheng,Earth Systems,Palo Alto,California,,No,No,1984
+18,Stanford University,School of Earth Sciences,Bachelor of Science,"June 18, 2006",Amanda Yi-Ling Chiu,Amanda,Yi-Ling,Chiu,Earth Systems,Palo Alto,California,,No,No,1984
+19,Stanford University,School of Earth Sciences,Bachelor of Science,"June 18, 2006",Laura Ruth Creager,Laura,Ruth,Creager,Earth Systems,Palo Alto,California,,No,No,1984
+20,Stanford University,School of Earth Sciences,Bachelor of Science,"June 18, 2006",Jamie Lynn Cundiff,Jamie,Lynn,Cundiff,Geological and Environmental Sciences,Palo Alto,California,,No,No,1984
+21,Stanford University,School of Earth Sciences,Bachelor of Science,"June 18, 2006",Crystal Lin Davis,Crystal,Lin,Davis,Earth Systems,Palo Alto,California,,No,No,1984
+22,Stanford University,School of Earth Sciences,Bachelor of Science,"June 18, 2006",John David Hardin Fedor,John David,Hardin,Fedor,Earth Systems,Palo Alto,California,,"Interdisciplinary Honors Program in Environmental Science, Technology, and Policy",No,1984
+23,Stanford University,School of Earth Sciences,Bachelor of Science,"June 18, 2006",Adam Joshua Ehrich Freedman,Adam Joshua,Ehrich,Freedman,Geological and Environmental Sciences,Palo Alto,California,,Yes,No,1984
+24,Stanford University,School of Earth Sciences,Bachelor of Science,"June 18, 2006",Anna Quinn Rich Hare,Anna Quinn,Rich,Hare,Earth Systems,Palo Alto,California,,No,No,1984
+25,Stanford University,School of Earth Sciences,Bachelor of Science,"June 18, 2006",Robert Emmett Hopkins,Robert,Emmett,Hopkins,Earth Systems,Palo Alto,California,,No,No,1984
+26,Stanford University,School of Earth Sciences,Bachelor of Science,"June 18, 2006",Christa Marie Horn,Christa,Marie,Horn,Earth Systems,Palo Alto,California,,No,No,1984
+27,Stanford University,School of Earth Sciences,Bachelor of Science,"June 18, 2006",Laure Sierra Katz,Laure,Sierra,Katz,Earth Systems,Palo Alto,California,,No,Yes,1984
+28,Stanford University,School of Earth Sciences,Bachelor of Science,"June 18, 2006",Samantha Lynn Magee,Samantha,Lynn,Magee,Earth Systems,Palo Alto,California,,No,No,1984
+29,Stanford University,School of Earth Sciences,Bachelor of Science,"June 18, 2006",Jacqueline Christine Martin,Jacqueline,Christine,Martin,Earth Systems,Palo Alto,California,,"Interdisciplinary Honors Program in Environmental Science, Technology, and Policy,",Yes,1984
+30,Stanford University,School of Earth Sciences,Bachelor of Science,"June 18, 2006",Sally Leigh Mills,Sally,Leigh,Mills,Earth Systems,Palo Alto,California,,No,No,1984
+31,Stanford University,School of Earth Sciences,Bachelor of Science,"June 18, 2006",Christopher Roderick Newton,Christopher,Roderick,Newton,Earth Systems,Palo Alto,California,,No,Yes,1984
+32,Stanford University,School of Earth Sciences,Bachelor of Science,"June 18, 2006",Okorie Michael Puryear,Okorie,Michael,Puryear,Earth Systems,Palo Alto,California,,No,No,1984
+33,Stanford University,School of Earth Sciences,Bachelor of Science,"June 18, 2006",Jonathan Gregory Sanders,Jonathan,Gregory,Sanders,Earth Systems,Palo Alto,California,,No,No,1984
+34,Stanford University,School of Earth Sciences,Bachelor of Science,"June 18, 2006",Nicole Beatrice Schuetz,Nicole,Beatrice,Schuetz,Earth Systems,Palo Alto,California,,"Interdisciplinary Honors Program in Environmental Science, Technology, and Policy,",Yes,1984
+35,Stanford University,School of Earth Sciences,Bachelor of Science,"June 18, 2006",Timothy Telleen-Lawton,Timothy,,Telleen-Lawton,Earth Systems,Palo Alto,California,,No,No,1984
+36,Stanford University,School of Earth Sciences,Bachelor of Science,"June 18, 2006",Sarah Anne Truebe,Sarah,Anne,Truebe,Earth Systems,Palo Alto,California,,"Interdisciplinary Honors Program in Environmental Science, Technology, and Policy,",Yes,1984
+37,Stanford University,School of Earth Sciences,Bachelor of Science,"June 18, 2006",Timothy Andrew Varga,Timothy,Andrew,Varga,Earth Systems,Palo Alto,California,,No,No,1984
+38,Stanford University,School of Engineering,Bachelor of Science,"September 29, 2005",Phillip John Arowosegbe,Phillip,John,Arowosegbe,Management Science and Engineering,Palo Alto,California,,No,No,1984
+39,Stanford University,School of Engineering,Bachelor of Science,"September 29, 2005",Scott Joseph Cannon,Scott,Joseph,Cannon,Electrical Engineering,Palo Alto,California,,No,No,1984
+40,Stanford University,School of Engineering,Bachelor of Science,"September 29, 2005",Shuqing Cao,Shuqing,,Cao,Electrical Engineering,Palo Alto,California,,No,No,1984
+41,Stanford University,School of Engineering,Bachelor of Science,"September 29, 2005",William Edward Aikman Crump,William Edward,Aikman,Crump,Mechanical Engineering,Palo Alto,California,,No,No,1984
+42,Stanford University,School of Engineering,Bachelor of Science,"September 29, 2005",Michael Williams Dalton,Michael,Williams,Dalton,Computer Science,Palo Alto,California,,No,No,1984
+43,Stanford University,School of Engineering,Bachelor of Science,"September 29, 2005",Erin Leigh Gardner,Erin,Leigh,Gardner,Civil Engineering,Palo Alto,California,,No,No,1984
+44,Stanford University,School of Engineering,Bachelor of Science,"September 29, 2005",Derek Gaw,Derek,,Gaw,Computer Science,Palo Alto,California,Canada,No,No,1984
+45,Stanford University,School of Engineering,Bachelor of Science,"September 29, 2005",Derek Richard Lobedan,Derek,Richard,Lobedan,Civil Engineering,Palo Alto,California,,No,No,1984
+46,Stanford University,School of Engineering,Bachelor of Science,"September 29, 2005",Gregory Michael McBeth,Gregory,Michael,McBeth,Mechanical Engineering,Palo Alto,California,,No,No,1984
+47,Stanford University,School of Engineering,Bachelor of Science,"September 29, 2005",Ian Carmichael McGraw,Ian,Carmichael,McGraw,Computer Science,Palo Alto,California,,Yes,No,1984
+48,Stanford University,School of Engineering,Bachelor of Science,"September 29, 2005",Thaala Jane Bonolo Montsi,Thaala Jane,Bonolo,Montsi,Computer Science,Palo Alto,California,Botswana,No,No,1984
+49,Stanford University,School of Engineering,Bachelor of Science,"September 29, 2005",Philip George Ortiz,Philip,George,Ortiz,Electrical Engineering,Palo Alto,California,,No,No,1984
+50,Stanford University,School of Engineering,Bachelor of Science,"September 29, 2005",Christopher Fase Sandman,Christopher,Fase,Sandman,Management Science and Engineering,Palo Alto,California,,No,No,1984
+51,Stanford University,School of Engineering,Bachelor of Science,"September 29, 2005",Suril Rasesh Shah,Suril,Rasesh,Shah,Management Science and Engineering,Palo Alto,California,,No,No,1984
+52,Stanford University,School of Engineering,Bachelor of Science,"September 29, 2005",Gregory Shiang Tsien,Gregory,Shiang,Tsien,Electrical Engineering,Palo Alto,California,,No,No,1984
+53,Stanford University,School of Engineering,Bachelor of Science,"September 29, 2005",Sabrina Betsy Williams,Sabrina,Betsy,Williams,Computer Science,Palo Alto,California,,No,No,1984
+54,Stanford University,School of Engineering,Bachelor of Science,"September 29, 2005",Gerald Wayne Yu,Gerald,Wayne,Yu,Computer Science,Palo Alto,California,,No,No,1984
+55,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Kwasi Ngoa Adu,Kwasi,Ngoa,Adu,Mechanical Engineering,Palo Alto,California,Ghana,No,No,1984
+56,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",William Vucich Beecher,William,Vucich,Beecher,Mechanical Engineering,Palo Alto,California,,No,No,1984
+57,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Megan Marie Bela,Megan,Marie,Bela,Environmental Engineering,Palo Alto,California,,"Interdisciplinary Honors Program in Environmental Science, Technology, and Policy",No,1984
+58,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Dmitry B Belogolovsky,Dmitry,B,Belogolovsky,Computer Science,Palo Alto,California,,No,No,1984
+59,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Tefferi Mogus Brook,Tefferi,Mogus,Brook,Electrical Engineering,Palo Alto,California,,No,No,1984
+60,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Sheena Easwaramangalath Chandran,Sheena,Easwaramangalath,Chandran,"Engineering, Field: Product Design",Palo Alto,California,,No,No,1984
+61,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Jenny Jen-yi Chen,Jenny,Jen-yi,Chen,Computer Science,Palo Alto,California,,No,No,1984
+62,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Vickie Z. Chiang,Vickie,Z.,Chiang,"Engineering, Field: Product Design",Palo Alto,California,,No,No,1984
+63,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Lauren Elizabeth Donovan,Lauren,Elizabeth,Donovan,Civil Engineering,Palo Alto,California,,No,No,1984
+64,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Nyeri Leah Elliott,Nyeri,Leah,Elliott,Management Science and Engineering,Palo Alto,California,,No,No,1984
+65,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Whitney Price Hopkins,Whitney,Price,Hopkins,"Engineering, Field: Product Design",Palo Alto,California,,Yes,No,1984
+66,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Heart Hsin,Heart,,Hsin,Electrical Engineering,Palo Alto,California,,No,No,1984
+67,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Anny Chia-Shyuan Hsu,Anny,Chia-Shyuan,Hsu,"Engineering, Field: Biomechanical Engineering",Palo Alto,California,Taiwan,No,No,1984
+68,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Sohan Japa,Sohan,,Japa,"Engineering, Field: Biomechanical Engineering",Palo Alto,California,,Interdisciplinary Honors Program in International Security Studies,No,1984
+69,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Adam Scott Kahn,Adam,Scott,Kahn,Computer Science,Palo Alto,California,,No,No,1984
+70,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Anthony Peter Killian,Anthony,Peter,Killian,Engineering,Palo Alto,California,,No,No,1984
+71,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Jeff J. Kim,Jeff,J.,Kim,Computer Science,Palo Alto,California,,No,No,1984
+72,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Louis Sze Ho Leung,Louis Sze,Ho,Leung,Civil Engineering,Palo Alto,California,Hong Kong,No,No,1984
+73,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Russell Andrew Martin,Russell,Andrew,Martin,Chemical Engineering,Palo Alto,California,,No,No,1984
+74,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Qing Yuan Ong,Qing,Yuan,Ong,Chemical Engineering,Palo Alto,California,Singapore,No,Yes,1984
+75,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Babatunde Oluwasegun Oshinowo Jr.,Babatunde,Oluwasegun,Oshinowo Jr.,Electrical Engineering,Palo Alto,California,,No,No,1984
+76,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Christopher Thomas Pumo,Christopher,Thomas,Pumo,Civil Engineering,Palo Alto,California,,No,No,1984
+77,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Brandon Thomas Royster,Brandon,Thomas,Royster,Mechanical Engineering,Palo Alto,California,,No,No,1984
+78,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Joseph V. Sithole II,Joseph,V.,Sithole II,Electrical Engineering,Palo Alto,California,,No,No,1984
+79,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Elizabeth Ariel Van Alstine,Elizabeth,Ariel,Van Alstine,Management Science and Engineering,Palo Alto,California,,No,No,1984
+80,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Sean Voigt,Sean,,Voigt,Chemical Engineering,Palo Alto,California,,No,No,1984
+81,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Cynthia Chichia Wang,Cynthia,Chichia,Wang,Computer Science,Palo Alto,California,,No,No,1984
+82,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Sean Tremaine Whalen,Sean,Tremaine,Whalen,Mechanical Engineering,Palo Alto,California,,No,No,1984
+83,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Joseph Y. Yu,Joseph,Y.,Yu,Electrical Engineering,Palo Alto,California,,No,No,1984
+84,Stanford University,School of Engineering,Bachelor of Science,"January 12, 2006",Enrique Marcelo Zambrano,Enrique,Marcelo,Zambrano,Management Science and Engineering,Palo Alto,California,Mexico,No,No,1984
+85,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Jonas Jacques Boli,Jonas,Jacques,Boli,Computer Science,Palo Alto,California,,No,No,1984
+86,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Silas Boyd-Wickizer,Silas,,Boyd-Wickizer,Computer Science,Palo Alto,California,,No,No,1984
+87,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Louisa Yun-Ru Chang,Louisa,Yun-Ru,Chang,Computer Science,Palo Alto,California,,No,No,1984
+88,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Mark J. Chen,Mark,J.,Chen,Computer Science,Palo Alto,California,,No,No,1984
+89,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Yung-Ty Chin,Yung-Ty,,Chin,Electrical Engineering,Palo Alto,California,,No,No,1984
+90,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Alejandro Manuel Diaz,Alejandro,Manuel,Diaz,Computer Science,Palo Alto,California,,"Interdisciplinary Honors Program in Science, Technology, and Society",No,1984
+91,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Jeffrey Clay Durbin,Jeffrey,Clay,Durbin,"Engineering, Field: Computer Systems Engineering",Palo Alto,California,,No,No,1984
+92,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Jonathan James Effrat,Jonathan,James,Effrat,Computer Science,Palo Alto,California,,No,No,1984
+93,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Matthew Cheng Henry,Matthew,Cheng,Henry,Management Science and Engineering,Palo Alto,California,,No,No,1984
+94,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Sarah Lynn Hopping,Sarah,Lynn,Hopping,Management Science and Engineering,Palo Alto,California,,No,No,1984
+95,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Stuart Lamkin Jones,Stuart,Lamkin,Jones,Management Science and Engineering,Palo Alto,California,,No,No,1984
+96,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Imad Mahmoud Kharbush,Imad,Mahmoud,Kharbush,Management Science and Engineering,Palo Alto,California,,No,No,1984
+97,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Max Yoo Kim,Max,Yoo,Kim,Engineering,Palo Alto,California,,No,No,1984
+98,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Fontaine Lam,Fontaine,,Lam,Computer Science,Palo Alto,California,,No,No,1984
+99,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Andrea Seba Les,Andrea,Seba,Les,"Engineering, Field: Biomechanical Engineering",Palo Alto,California,,No,No,1984
+100,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Nari Salter Mann,Nari,Salter,Mann,Computer Science,Palo Alto,California,,No,No,1984
+101,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Kristin Marie Moritz,Kristin,Marie,Moritz,Management Science and Engineering,Palo Alto,California,,No,No,1984
+102,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Amelia Clara Ngai,Amelia,Clara,Ngai,Engineering,Palo Alto,California,,No,No,1984
+103,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Alex C. Penn,Alex,C.,Penn,"Engineering, Field: Biomechanical Engineering",Palo Alto,California,,No,No,1984
+104,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Nathan Robert Penner,Nathan,Robert,Penner,Computer Science,Palo Alto,California,,No,Yes,1984
+105,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",William Robert Rothacker Jr.,William,Robert,Rothacker Jr.,Management Science and Engineering,Palo Alto,California,,No,No,1984
+106,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Joshua Stephen Salazar,Joshua,Stephen,Salazar,Electrical Engineering,Palo Alto,California,,No,No,1984
+107,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Aaron Edward Spinks,Aaron,Edward,Spinks,Computer Science,Palo Alto,California,,No,No,1984
+108,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Michael Anthony Vaninetti,Michael,Anthony,Vaninetti,"Engineering, Field: Biomechanical Engineering",Palo Alto,California,,No,No,1984
+109,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Robert James Williamson,Robert,James,Williamson,Computer Science,Palo Alto,California,,No,No,1984
+110,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Ryan Jacob Wisnesky,Ryan,Jacob,Wisnesky,Computer Science and Mathematics,Palo Alto,California,,No,No,1984
+111,Stanford University,School of Engineering,Bachelor of Science,"April 6, 2006",Xiang Yan,Xiang,,Yan,Computer Science,Palo Alto,California,People?s Republic of China,Yes,Yes,1984
+112,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Pablo Abad-Manterola,Pablo,,Abad-Manterola,Mechanical Engineering,Palo Alto,California,,No,No,1984
+113,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Steven Thomas Abraham,Steven,Thomas,Abraham,Management Science and Engineering,Palo Alto,California,,No,No,1984
+114,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Nitzan Ackner,Nitzan,,Ackner,Management Science and Engineering,Palo Alto,California,,No,Yes,1984
+115,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Gabriel Adrian Adauto,Gabriel,Adrian,Adauto,Computer Science,Palo Alto,California,,No,No,1984
+116,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Eden Grail Adogla,Eden,Grail,Adogla,Electrical Engineering,Palo Alto,California,,No,No,1984
+117,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Christopher Michael Ahlfeldt,Christopher,Michael,Ahlfeldt,Energy Systems Engineering,Palo Alto,California,,No,No,1984
+118,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Aisha Masooda Ali,Aisha,Masooda,Ali,Management Science and Engineering,Palo Alto,California,,No,No,1984
+119,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Kamis Derek Alley,Kamis,Derek,Alley,Management Science and Engineering,Palo Alto,California,,No,No,1984
+120,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Albert William Andersen,Albert,William,Andersen,Computer Science,Palo Alto,California,,No,No,1984
+121,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Kevin Matthew Anderson,Kevin,Matthew,Anderson,Mechanical Engineering,Palo Alto,California,,No,No,1984
+122,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Olivia Renee Anglade,Olivia,Renee,Anglade,Civil Engineering,Palo Alto,California,,No,No,1984
+123,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Calvin Brooks Armstrong,Calvin,Brooks,Armstrong,Civil Engineering,Palo Alto,California,,No,No,1984
+124,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Andrei Tudor Aron,Andrei,Tudor,Aron,Computer Science,Palo Alto,California,Romania,No,No,1984
+125,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Jonathan Ilan Aroner,Jonathan,Ilan,Aroner,Engineering,Palo Alto,California,,No,No,1984
+126,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Andrew AstudiRo,Andrew,,AstudiRo,Mechanical Engineering,Palo Alto,California,,No,No,1984
+127,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Andrew Simeon Aymeloglu,Andrew,Simeon,Aymeloglu,Computer Science and Mathematics,Palo Alto,California,,No,No,1984
+128,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Prabhu Shankar Balasubramanian,Prabhu,Shankar,Balasubramanian,Electrical Engineering,Palo Alto,California,,No,No,1984
+129,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Abheek Banerjee,Abheek,,Banerjee,Electrical Engineering,Palo Alto,California,,No,No,1984
+130,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Mauricio Javier Barrera Garza,Mauricio Javier,Barrera,Garza,Management Science and Engineering,Palo Alto,California,Mexico,No,No,1984
+131,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Joshua Herbert Baylor IV,Joshua,erbert,Baylor IV,Electrical Engineering,Palo Alto,California,,No,No,1984
+132,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Eric McCallister Bennett,Eric,McCallister,Bennett,Engineering,Palo Alto,California,,No,No,1984
+133,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Adam Morrow Bird,Adam,Morrow,Bird,Civil Engineering,Palo Alto,California,,No,No,1984
+134,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",David Charles Black,David,Charles,Black,Computer Science,Palo Alto,California,,No,No,1984
+135,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Dawn Lawnyae Black,Dawn,Lawnyae,Black,Management Science and Engineering,Palo Alto,California,,No,No,1984
+136,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",David Lawrence Blackman,David,Lawrence,Blackman,Computer Science,Palo Alto,California,,No,No,1984
+137,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Daniel Ryan Blatnik,Daniel,Ryan,Blatnik,Electrical Engineering,Palo Alto,California,,No,No,1984
+138,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Carrie Gwendolene Bobier,Carrie,Gwendolene,Bobier,Mechanical Engineering,Palo Alto,California,,No,No,1984
+139,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Brian Stuart Boggs,Brian,Stuart,Boggs,Mechanical Engineering,Palo Alto,California,,No,No,1984
+140,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Janiela Renee Bolds,Janiela,Renee,Bolds,Management Science and Engineering,Palo Alto,California,,No,No,1984
+141,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Joseph Charles Bonneau,Joseph,Charles,Bonneau,Computer Science,Palo Alto,California,,No,Yes,1984
+142,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Megan Dawn Bordelon,Megan,Dawn,Bordelon,Civil Engineering,Palo Alto,California,,No,No,1984
+143,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Matthew James Bow,Matthew,James,Bow,Mechanical Engineering,Palo Alto,California,,No,No,1984
+144,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Robert Charles Boyle,Robert,Charles,Boyle,"Engineering, Field: Computer Systems Engineering",Palo Alto,California,,No,No,1984
+145,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Matthew Sanders Branham,Matthew,Sanders,Branham,Mechanical Engineering,Palo Alto,California,,No,No,1984
+146,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Henry Nicholas Frischauf Bridge,Henry Nicholas,Frischauf,Bridge,Computer Science,Palo Alto,California,,Interdisciplinary Honors Program in International Security Studies,No,1984
+147,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Talia Leah Brodecki,Talia,Leah,Brodecki,Management Science and Engineering,Palo Alto,California,,No,No,1984
+148,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Harriet L. Brooks,Harriet,L.,Brooks,Management Science and Engineering,Palo Alto,California,,No,Yes,1984
+149,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Malcolm Parker Brown,Malcolm,Parker,Brown,Mechanical Engineering,Palo Alto,California,,No,No,1984
+150,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Michael Joseph Brzozowski,Michael,Joseph,Brzozowski,Computer Science,Palo Alto,California,,No,No,1984
+151,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Yuri Bukhan,Yuri,,Bukhan,Computer Science,Palo Alto,California,,No,No,1984
+152,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Justin Andre Burdick,Justin,Andre,Burdick,Electrical Engineering,Palo Alto,California,,No,No,1984
+153,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Carlos Manning Cabrera,Carlos,Manning,Cabrera,Civil Engineering,Palo Alto,California,,No,Yes,1984
+154,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",James Joseph Caputo,James,Joseph,Caputo,Mechanical Engineering,Palo Alto,California,,No,Yes,1984
+155,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Michael James Carbin,Michael,James,Carbin,Computer Science,Palo Alto,California,,Yes,No,1984
+156,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Rachel Diane Castillo,Rachel,Diane,Castillo,Civil Engineering,Palo Alto,California,,No,No,1984
+157,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Alfredo Castillo,Alfredo,,Castillo,"Engineering, Field: Product Design",Palo Alto,California,,No,No,1984
+158,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Alexander Mark Chan,Alexander,Mark,Chan,"Engineering, Field: Biomedical Computation",Palo Alto,California,,No,Yes,1984
+159,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Emily C. Chang,Emily,C.,Chang,Management Science and Engineering,Palo Alto,California,,No,No,1984
+160,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Michael Brian Chang,Michael,Brian,Chang,"Engineering, Field: Biomechanical Engineering",Palo Alto,California,,No,No,1984
+161,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Samuel Yen-En Chang,Samuel,Yen-En,Chang,Electrical Engineering,Palo Alto,California,,No,No,1984
+162,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Tim Ting-Song Chang,Tim,Ting-Song,Chang,Electrical Engineering,Palo Alto,California,,No,Yes,1984
+163,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Christina Jen-Ting Chao,Christina,Jen-Ting,Chao,Mechanical Engineering,Palo Alto,California,,No,No,1984
+164,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Katherine Margaret Chen,Katherine,Margaret,Chen,Electrical Engineering,Palo Alto,California,,No,No,1984
+165,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Allen Cheung,Allen,,Cheung,Civil Engineering,Palo Alto,California,,No,Yes,1984
+166,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Jerry Chi,Jerry,,Chi,Management Science and Engineering,Palo Alto,California,,No,No,1984
+167,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Chuen Chou,Chuen,,Chou,Mechanical Engineering,Palo Alto,California,,No,Yes,1984
+168,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Benjamin Arthur Christensen,Benjamin,Arthur,Christensen,Mechanical Engineering,Palo Alto,California,,No,No,1984
+169,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Eric Yan Tin Chu,Eric Yan,Tin,Chu,Electrical Engineering,Palo Alto,California,Taiwan,No,Yes,1984
+170,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Linus Kaiguan Chung,Linus,Kaiguan,Chung,Electrical Engineering,Palo Alto,California,,No,No,1984
+171,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Ngai Chi Chung,Ngai,Chi,Chung,Civil Engineering,Palo Alto,California,,No,Yes,1984
+172,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Adam Paul Coates,Adam,Paul,Coates,Computer Science,Palo Alto,California,,No,Yes,1984
+173,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Donovan Scott Collins,Donovan,Scott,Collins,Chemical Engineering,Palo Alto,California,,No,No,1984
+174,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Gerald Eustan Commissiong,Gerald,Eustan,Commissiong,Management Science and Engineering,Palo Alto,California,Canada,No,No,1984
+175,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",David Ethan Corcoran,David,Ethan,Corcoran,Management Science and Engineering,Palo Alto,California,,No,No,1984
+176,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Jacob Francis Cornelius,Jacob,Francis,Cornelius,Mechanical Engineering,Palo Alto,California,,No,No,1984
+177,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Robert Edwin Crotty,Robert,Edwin,Crotty,Computer Science,Palo Alto,California,,No,No,1984
+178,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Louard Crumbaugh IV,Louard,Crumbaugh,IV,Mechanical Engineering,Palo Alto,California,,No,No,1984
+179,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Darwin Thomas Cruz,Darwin,Thomas,Cruz,Computer Science,Palo Alto,California,,No,No,1984
+180,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Rachel Florence Soloria Dacwag,Rachel Florence,Soloria,Dacwag,"Engineering, Field: Biomechanical Engineering",Palo Alto,California,Guam,No,No,1984
+181,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Nicholas Ralph Damiano,Nicholas,Ralph,Damiano,Management Science and Engineering,Palo Alto,California,,No,No,1984
+182,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Brian James DeChesare,Brian,James,DeChesare,Computer Science,Palo Alto,California,,No,No,1984
+183,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Thomas A. Deane,Thomas,A.,Deane,Electrical Engineering,Palo Alto,California,,No,No,1984
+184,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Thomas Walter Dillig,Thomas,Walter,Dillig,Computer Science,Palo Alto,California,,Yes,Yes,1984
+185,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Caitlin Quance Donhowe,Caitlin,Quance,Donhowe,Mechanical Engineering,Palo Alto,California,,No,No,1984
+186,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Sean P. Doolan,Sean,P.,Doolan,Civil Engineering,Palo Alto,California,,No,No,1984
+187,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Tiffany Monique Dorantes,Tiffany,Monique,Dorantes,Management Science and Engineering,Palo Alto,California,,No,No,1984
+188,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Erica Michelle Douglas,Erica,Michelle,Douglas,Chemical Engineering,Palo Alto,California,,No,No,1984
+189,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Omari Leon Downey,Omari,Leon,Downey,Mechanical Engineering,Palo Alto,California,,No,No,1984
+190,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Nathaniel Ryan Downs,Nathaniel,Ryan,Downs,Computer Science,Palo Alto,California,,No,No,1984
+191,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Jacqueline Nicole Dozier,Jacqueline,Nicole,Dozier,Civil Engineering,Palo Alto,California,,No,No,1984
+192,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Dimitris Aristides Economou,Dimitris,Aristides,Economou,Electrical Engineering,Palo Alto,California,Greece,Yes,No,1984
+193,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Christian Michael Phillip Eisert,Christian Michael,Phillip,Eisert,"Engineering, Field: Biomedical Computation",Palo Alto,California,Germany,No,No,1984
+194,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Nancy El-Sakkary,Nancy,,El-Sakkary,Electrical Engineering,Palo Alto,California,,No,No,1984
+195,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",David Robert Emme,David,Robert,Emme,Mechanical Engineering,Palo Alto,California,,No,No,1984
+196,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Rachel Katurah Enslow,Rachel,Katurah,Enslow,Mechanical Engineering,Palo Alto,California,,No,No,1984
+197,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Justin Navid Erickson,Justin,Navid,Erickson,Computer Science,Palo Alto,California,,Yes,No,1984
+198,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Omolara Olawunmi Falusi,Omolara,Olawunmi,Falusi,Management Science and Engineering,Palo Alto,California,,No,No,1984
+199,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Margaret Christine Ford,Margaret,Christine,Ford,"Engineering, Field: Biomechanical Engineering",Palo Alto,California,,No,No,1984
+200,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Eric Brandon Friedman,Eric,Brandon,Friedman,Computer Science,Palo Alto,California,,No,No,1984
+201,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Gisselle Maria Gaitan,Gisselle,Maria,Gaitan,Management Science and Engineering,Palo Alto,California,,No,No,1984
+202,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Thomas Adrian Gaitan,Thomas,Adrian,Gaitan,Chemical Engineering,Palo Alto,California,,No,No,1984
+203,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Asvin Minoo Ganapathi,Asvin,Minoo,Ganapathi,"Engineering, Field: Aeronautics and Astronautics",Palo Alto,California,,Interdisciplinary Honors Program in Humanities,No,1984
+204,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Michael Jeffrey Gandal,Michael,Jeffrey,Gandal,Engineering,Palo Alto,California,,No,Yes,1984
+205,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Maximilian Augustin Garcia,Maximilian,Augustin,Garcia,Management Science and Engineering,Palo Alto,California,,No,No,1984
+206,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Artemio Garza de la Puente,Artemio,Garza,de la Puente,Mechanical Engineering,Palo Alto,California,Mexico,No,No,1984
+207,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Luis Garza-Sada,Luis,,Garza-Sada,Management Science and Engineering,Palo Alto,California,Mexico,No,No,1984
+208,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Jonathan Allen Gaw,Jonathan,Allen,Gaw,"Engineering, Field: Product Design",Palo Alto,California,,No,No,1984
+209,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Daxia Ge,Daxia,,Ge,Electrical Engineering,Palo Alto,California,,No,No,1984
+210,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Michael Gebretsadik,Michael,,Gebretsadik,Electrical Engineering,Palo Alto,California,,No,No,1984
+211,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Caroline Scott Geehr,Caroline,Scott,Geehr,"Engineering, Field: Biomechanical Engineering",Palo Alto,California,,No,No,1984
+212,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Robert Sites Gibson,Robert,Sites,Gibson,"Engineering, Field: Product Design",Palo Alto,California,,Interdisciplinary Honors Program in Humanities,No,1984
+213,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Lauren Danielle Gillery,Lauren,Danielle,Gillery,Management Science and Engineering,Palo Alto,California,,No,No,1984
+214,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Joel Goh,Joel,,Goh,Electrical Engineering,Palo Alto,California,Singapore,Yes,Yes,1984
+215,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Nancy Gong,Nancy,,Gong,Management Science and Engineering,Palo Alto,California,,No,No,1984
+216,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Vincent John Gonzales,Vincent,John,Gonzales,Management Science and Engineering,Palo Alto,California,,No,No,1984
+217,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Emilio Andres Gonzalez Marcos,Emilio Andres,Gonzalez,Marcos,Mechanical Engineering,Palo Alto,California,Mexico,No,Yes,1984
+218,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Matthew David Grubb,Matthew,David,Grubb,Mechanical Engineering,Palo Alto,California,,No,No,1984
+219,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Pan Gu,Pan,,Gu,Electrical Engineering,Palo Alto,California,People?s Republic of China,No,Yes,1984
+220,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Joanna Renee Gubman,Joanna,Renee,Gubman,Mechanical Engineering,Palo Alto,California,,No,No,1984
+221,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",James Alexander Gull,James,Alexander,Gull,"Engineering, Field: Aeronautics and Astronautics",Palo Alto,California,,No,No,1984
+222,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Stephen Dean Guo,Stephen,Dean,Guo,Computer Science,Palo Alto,California,,No,Yes,1984
+223,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Ryan Scott Hagen,Ryan,Scott,Hagen,Civil Engineering,Palo Alto,California,,No,No,1984
+224,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Nicholas Ethan Halderman,Nicholas,Ethan,Halderman,Computer Science,Palo Alto,California,,Yes,No,1984
+225,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Cara Cooper Harmon,Cara,Cooper,Harmon,Mechanical Engineering,Palo Alto,California,,No,No,1984
+226,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Jonathan Louis Harrington,Jonathan,Louis,Harrington,Mechanical Engineering,Palo Alto,California,,No,No,1984
+227,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Sean Nathaniel Harris,Sean,Nathaniel,Harris,Management Science and Engineering,Palo Alto,California,,No,No,1984
+228,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Tristan Arguello Harris,Tristan,Arguello,Harris,Computer Science,Palo Alto,California,,No,No,1984
+229,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Aron Jonathan Hegyi,Aron,Jonathan,Hegyi,"Engineering, Field: Product Design",Palo Alto,California,,No,No,1984
+230,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Andrew Jared Hendel,Andrew,Jared,Hendel,Management Science and Engineering,Palo Alto,California,,No,Yes,1984
+231,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Zachary Nathaniel Hensley,Zachary,Nathaniel,Hensley,Civil Engineering,Palo Alto,California,,No,No,1984
+232,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Rowan Olund Hettel,Rowan,Olund,Hettel,Mechanical Engineering,Palo Alto,California,,No,No,1984
+233,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Joseph Brian Hiatt,Joseph,Brian,Hiatt,Chemical Engineering,Palo Alto,California,,No,Yes,1984
+234,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Ambert ChenHwang Ho,Ambert,ChenHwang,Ho,Electrical Engineering,Palo Alto,California,,No,No,1984
+235,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Gregor Hochmuth,Gregor,,Hochmuth,Computer Science,Palo Alto,California,Germany,No,No,1984
+236,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Syed Zain Hoda,Syed,Zain,Hoda,Computer Science,Palo Alto,California,Philippines,No,No,1984
+237,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Thomas Gregory Hopkins,Thomas,Gregory,Hopkins,Civil Engineering,Palo Alto,California,,No,No,1984
+238,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Tarek Adel Hosny,Tarek,Adel,Hosny,Management Science and Engineering,Palo Alto,California,Egypt,No,No,1984
+239,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",John Edmund Howlett IV,John,Edmund,Howlett IV,Management Science and Engineering,Palo Alto,California,,No,No,1984
+240,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Erin Ernestine Hsu,Erin,Ernestine,Hsu,Electrical Engineering,Palo Alto,California,,No,No,1984
+241,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Rachel Ching-Mei Hsu,Rachel,Ching-Mei,Hsu,"Engineering, Field: Product Design",Palo Alto,California,,No,No,1984
+242,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Wei-Cheng Hsu,Wei-Cheng,,Hsu,Electrical Engineering,Palo Alto,California,,No,No,1984
+243,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Tony Hung,Tony,,Hung,Chemical Engineering,Palo Alto,California,,No,No,1984
+244,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Thomas Edmund Hurlbutt,Thomas,Edmund,Hurlbutt,Computer Science,Palo Alto,California,,"Interdisciplinary Honors Program in Humanities,",Yes,1984
+245,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Jonathan Hwang,Jonathan,,Hwang,Civil Engineering,Palo Alto,California,,No,Yes,1984
+246,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Benahi A. Ilegbodu,Benahi,A.,Ilegbodu,Computer Science,Palo Alto,California,,No,No,1984
+247,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Matthew David James,Matthew,David,James,Electrical Engineering,Palo Alto,California,,No,No,1984
+248,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Nathaniel Tnai Jane-wit,Nathaniel,Tnai,Jane-wit,Electrical Engineering,Palo Alto,California,,No,No,1984
+249,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",BinBin Jiang,BinBin,,Jiang,Environmental Engineering,Palo Alto,California,,Yes,No,1984
+250,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Sherry Xiaodi Jin,Sherry,Xiaodi,Jin,Computer Science,Palo Alto,California,,No,No,1984
+251,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Johann K. John,Johann,K.,John,Management Science and Engineering,Palo Alto,California,Malaysia,No,No,1984
+252,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Juston DeShun Johnson,Juston,DeShun,Johnson,Computer Science,Palo Alto,California,,No,No,1984
+253,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Luis Manuel Jones,Luis,Manuel,Jones,"Engineering, Field: Biomechanical Engineering",Palo Alto,California,,No,No,1984
+254,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Derrick T. Jue,Derrick,T.,Jue,Mechanical Engineering,Palo Alto,California,Canada,No,No,1984
+255,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Ryan Takfarinas Kaci,Ryan,Takfarinas,Kaci,Computer Science,Palo Alto,California,,No,No,1984
+256,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Pavitra Rahul Kamath,Pavitra,Rahul,Kamath,Management Science and Engineering,Palo Alto,California,India,No,No,1984
+257,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Taylor Michael Keep,Taylor,Michael,Keep,Mechanical Engineering,Palo Alto,California,,No,Yes,1984
+258,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Sean Prescott Kendall,Sean,Prescott,Kendall,Chemical Engineering,Palo Alto,California,,No,No,1984
+259,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Albert Jun Qi Keung,Albert Jun,Qi,Keung,Chemical Engineering,Palo Alto,California,,Yes,Yes,1984
+260,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Saahir Khan,Saahir,,Khan,Chemical Engineering,Palo Alto,California,,Yes,No,1984
+261,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Sharad Khanal,Sharad,,Khanal,Electrical Engineering,Palo Alto,California,Nepal,No,No,1984
+262,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Kyle Greene Kilat,Kyle,Greene,Kilat,Management Science and Engineering,Palo Alto,California,,No,Yes,1984
+263,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Mark James Kilgore,Mark,James,Kilgore,Computer Science,Palo Alto,California,,No,No,1984
+264,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Michelle Song Kim,Michelle,Song,Kim,Management Science and Engineering,Palo Alto,California,,No,No,1984
+265,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Joseph William Kirscher,Joseph,William,Kirscher,Management Science and Engineering,Palo Alto,California,,No,No,1984
+266,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Christopher John Kish,Christopher,John,Kish,Mechanical Engineering,Palo Alto,California,,No,Yes,1984
+267,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Pey-Jiun Ko,Pey-Jiun,,Ko,Mechanical Engineering,Palo Alto,California,,No,No,1984
+268,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Jessica Frances Kozak,Jessica,Frances,Kozak,Mechanical Engineering,Palo Alto,California,,No,No,1984
+269,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Sanghyup Kwak,Sanghyup,,Kwak,Electrical Engineering,Palo Alto,California,Republic of Korea,No,No,1984
+270,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Heather Marguerite Lake,Heather,Marguerite,Lake,Chemical Engineering,Palo Alto,California,,No,No,1984
+271,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Manu Lakkur,Manu,,Lakkur,Electrical Engineering,Palo Alto,California,,No,No,1984
+272,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Stephanie Nicole Lampkin,Stephanie,Nicole,Lampkin,Management Science and Engineering,Palo Alto,California,,No,No,1984
+273,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Kelly Frank Lang,Kelly,Frank,Lang,"Engineering, Field: Product Design",Palo Alto,California,,No,No,1984
+274,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Noah Benjamin Lang,Noah,Benjamin,Lang,"Engineering, Field: Product Design",Palo Alto,California,,No,No,1984
+275,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Mauricio Lask,Mauricio,,Lask,Chemical Engineering,Palo Alto,California,Mexico,No,No,1984
+276,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Michael Robert Laufer,Michael,Robert,Laufer,Mechanical Engineering,Palo Alto,California,,Interdisciplinary Honors Program in International Security Studies,No,1984
+277,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Elizabeth Fiona Lawson,Elizabeth,Fiona,Lawson,Computer Science,Palo Alto,California,,No,No,1984
+278,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Leonel Leal,Leonel,,Leal,"Engineering, Field: Product Design",Palo Alto,California,,No,No,1984
+279,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Ji Heun Lee,Ji,Heun,Lee,Mechanical Engineering,Palo Alto,California,,No,Yes,1984
+280,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Kenneth J. Lee,Kenneth,J.,Lee,Computer Science,Palo Alto,California,,No,No,1984
+281,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Kevin Rende Lee,Kevin,Rende,Lee,Computer Science,Palo Alto,California,Singapore,No,Yes,1984
+282,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Brendan Peltonen Lehnert,Brendan,Peltonen,Lehnert,"Engineering, Field: Biomedical Computation",Palo Alto,California,,No,No,1984
+283,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Nicholas Charles Leindecker,Nicholas,Charles,Leindecker,Electrical Engineering and Physics,Palo Alto,California,,No,No,1984
+284,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Emily Barrett Leslie,Emily,Barrett,Leslie,Energy Engineering,Palo Alto,California,,No,No,1984
+285,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Alexander Dauning Li,Alexander,Dauning,Li,Computer Science,Palo Alto,California,,No,Yes,1984
+286,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",David Lawrence Li,David,Lawrence,Li,Electrical Engineering,Palo Alto,California,,No,No,1984
+287,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Jeffrey T. Li,Jeffrey,T.,Li,Mechanical Engineering,Palo Alto,California,,No,No,1984
+288,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Lizabeth Yue Li,Lizabeth,Yue,Li,Electrical Engineering,Palo Alto,California,,No,Yes,1984
+289,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Leslie Y. Liang,Leslie,Y.,Liang,Chemical Engineering,Palo Alto,California,,No,Yes,1984
+290,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Christina Frances Liebner,Christina,Frances,Liebner,Civil Engineering,Palo Alto,California,,No,No,1984
+291,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Zi Shen Lim,Zi,Shen,Lim,Electrical Engineering,Palo Alto,California,Malaysia,No,No,1984
+292,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",James Da-Yo Lin,James,Da-Yo,Lin,Electrical Engineering,Palo Alto,California,Taiwan,No,No,1984
+293,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",William Liou,William,,Liou,Electrical Engineering,Palo Alto,California,,No,No,1984
+294,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",David Edward Lipa,David,Edward,Lipa,Management Science and Engineering,Palo Alto,California,,No,No,1984
+295,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Vinay Mahagaokar,Vinay,,Mahagaokar,Electrical Engineering,Palo Alto,California,,No,No,1984
+296,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Vikram Malhotra,Vikram,,Malhotra,Electrical Engineering,Palo Alto,California,,No,Yes,1984
+297,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Amit Yaad Mauna,Amit,Yaad,Mauna,Computer Science,Palo Alto,California,,No,No,1984
+298,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Nick Paul Manov,Nick,Paul,Manov,Mechanical Engineering,Palo Alto,California,,No,No,1984
+299,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Antonio Rene Marquez,Antonio,Rene,Marquez,Electrical Engineering,Palo Alto,California,,No,No,1984
+300,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Javier Andres Marquez,Javier,Andres,Marquez,Mechanical Engineering,Palo Alto,California,,No,No,1984
+301,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Grant Bellows Martinez,Grant,Bellows,Martinez,Mechanical Engineering,Palo Alto,California,,No,Yes,1984
+302,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Mark Thaddeus Sevilla Marzona,Mark Thaddeus,Sevilla,Marzona,Mechanical Engineering,Palo Alto,California,,No,No,1984
+303,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Miguel Angel Martinez Matta,Miguel Angel,Martinez,Matta,Electrical Engineering,Palo Alto,California,,No,No,1984
+304,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",William James McColl,William,James,McColl,Mechanical Engineering,Palo Alto,California,,No,No,1984
+305,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Christopher John McCormick,Christopher,John,McCormick,Electrical Engineering,Palo Alto,California,,No,No,1984
+306,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Max Mednik,Max,,Mednik,Computer Science,Palo Alto,California,,No,Yes,1984
+307,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",John Allen Meier,John,Allen,Meier,Mechanical Engineering,Palo Alto,California,,No,No,1984
+308,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Ogheneochuko Ejiro Metitiri,Ogheneochuko,Ejiro,Metitiri,Mechanical Engineering,Palo Alto,California,,No,No,1984
+309,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Evelyn Mintarno,Evelyn,,Mintarno,Electrical Engineering,Palo Alto,California,Indonesia,No,Yes,1984
+310,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Hugo Santiago Miranda,Hugo,Santiago,Miranda,Electrical Engineering,Palo Alto,California,,No,No,1984
+311,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Nicholas Frank Miyake,Nicholas,Frank,Miyake,Computer Science,Palo Alto,California,Japan,No,No,1984
+312,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Bradford Allen Moore,Bradford,Allen,Moore,Computer Science,Palo Alto,California,,No,No,1984
+313,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Daniel Kenji Motooka,Daniel,Kenji,Motooka,Mechanical Engineering,Palo Alto,California,,No,Yes,1984
+314,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Michael James Chiotti Murray,Michael James,Chiotti,Murray,Civil Engineering,Palo Alto,California,,No,No,1984
+315,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Lyndsay Marie Murrow,Lyndsay,Marie,Murrow,Chemical Engineering,Palo Alto,California,,No,Yes,1984
+316,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Raymond Michael Musalo,Raymond,Michael,Musalo,Mechanical Engineering,Palo Alto,California,,No,No,1984
+317,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Ratul Narain,Ratul,,Narain,"Engineering, Field: Biomechanical Engineering",Palo Alto,California,,No,No,1984
+318,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Shravan Kishore Nargundkar,Shravan,Kishore,Nargundkar,Management Science and Engineering,Palo Alto,California,,No,No,1984
+319,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Katherine Jean Narver,Katherine,Jean,Narver,Mechanical Engineering,Palo Alto,California,,No,No,1984
+320,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Samuel Meir Newman,Samuel,Meir,Newman,Civil Engineering,Palo Alto,California,,No,Yes,1984
+321,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",David Dat Nguyen,David,Dat,Nguyen,Electrical Engineering,Palo Alto,California,,No,No,1984
+322,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Helen Xiang Nie,Helen,Xiang,Nie,Management Science and Engineering,Palo Alto,California,,No,No,1984
+323,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Nkiruka Shelley Nweke,Nkiruka,Shelley,Nweke,Management Science and Engineering,Palo Alto,California,,No,No,1984
+324,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Antonio Ochoa,Antonio,,Ochoa,Engineering,Palo Alto,California,,No,No,1984
+325,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Lora Ann Oehlberg,Lora,Ann,Oehlberg,Mechanical Engineering,Palo Alto,California,,No,No,1984
+326,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Aneto Pablo Okonkwo,Aneto,Pablo,Okonkwo,Management Science and Engineering,Palo Alto,California,Nigeria,No,No,1984
+327,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Paula Peirao de Oliveira,Paula,Peirao,de Oliveira,Management Science and Engineering,Palo Alto,California,Brazil,No,No,1984
+328,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Ayse Isil Ozgener,Ayse,Isil,Ozgener,Computer Science,Palo Alto,California,,Yes,Yes,1984
+329,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Marcello Richard Pantuliano,Marcello,Richard,Pantuliano,Electrical Engineering,Palo Alto,California,,No,No,1984
+330,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Jaeman Park,Jaeman,,Park,Electrical Engineering,Palo Alto,California,Republic of Korea,No,No,1984
+331,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Grant Oncle Patterson,Grant,Oncle,Patterson,Computer Science,Palo Alto,California,,No,No,1984
+332,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Rrian William Payer,Rrian,William,Payer,Chemical Engineering,Palo Alto,California,,No,No,1984
+333,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Julian Gregory Pena,Julian,Gregory,Pena,Mechanical Engineering,Palo Alto,California,,No,No,1984
+334,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Andrew Samuel Peterman,Andrew,Samuel,Peterman,Civil Engineering,Palo Alto,California,,No,No,1984
+335,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Vy Do Phan,Vy,Do,Phan,Computer Science,Palo Alto,California,,No,No,1984
+336,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Carmin Mari Powell,Carmin,Mari,Powell,"Engineering, Field: Biomechanical Engineering",Palo Alto,California,,No,No,1984
+337,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Andres David Priego,Andres,David,Priego,Management Science and Engineering,Palo Alto,California,,No,No,1984
+338,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Sean Edward Ptacek,Sean,Edward,Ptacek,"Engineering, Field: Product Design",Palo Alto,California,,No,No,1984
+339,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Nancy Quan,Nancy,,Quan,Mechanical Engineering,Palo Alto,California,,No,No,1984
+340,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Nicole Ann Quesada,Nicole,Ann,Quesada,Chemical Engineering,Palo Alto,California,,No,No,1984
+341,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Aaron Alika Quitugua-Flores,Aaron,Alika,Quitugua-Flores,Mechanical Engineering,Palo Alto,California,,No,No,1984
+342,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Shyam Ravindran,Shyam,,Ravindran,Management Science and Engineering,Palo Alto,California,,No,No,1984
+343,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Teena Marie Redhorse,Teena,Marie,Redhorse,Civil Engineering,Palo Alto,California,,No,No,1984
+344,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",David Scott Reiss,David,Scott,Reiss,Computer Science,Palo Alto,California,,No,Yes,1984
+345,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Ryan Webster Rennaker,Ryan,Webster,Rennaker,Management Science and Engineering,Palo Alto,California,,No,No,1984
+346,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Matthew James Richards,Matthew,James,Richards,Computer Science,Palo Alto,California,,No,No,1984
+347,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Karla Mei Robertson,Karla,Mei,Robertson,"Engineering, Field: Product Design",Palo Alto,California,,No,No,1984
+348,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Shaina Annette Rozell,Shaina,Annette,Rozell,,Palo Alto,California,,No,No,1984
+349,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Daniel Andres Salinas,Daniel,Andres,Salinas,Computer Science,Palo Alto,California,,No,Yes,1984
+350,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Joshua P. Sandberg,Joshua,P.,Sandberg,Computer Science,Palo Alto,California,,No,No,1984
+351,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Erwin Can Sar,Erwin,Can,Sar,Computer Science,Palo Alto,California,Austria,Yes,No,1984
+352,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Kelly Susan Schmutte,Kelly,Susan,Schmutte,"Engineering, Field: Product Design",Palo Alto,California,,No,Yes,1984
+353,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Alan Colbrie Schoen,Alan,Colbrie,Schoen,Mechanical Engineering,Palo Alto,California,,No,No,1984
+354,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Brett Alexander Seawell,Brett,Alexander,Seawell,Management Science and Engineering,Palo Alto,California,,No,No,1984
+355,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Rohan Seth,Rohan,,Seth,Computer Science,Palo Alto,California,India,No,No,1984
+356,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Kelly Evelyn Shaw,Kelly,Evelyn,Shaw,"Engineering, Field: Product Design",Palo Alto,California,,No,No,1984
+357,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",John James Shedletsky III,John,James,Shedletsky III,Computer Science,Palo Alto,California,,No,No,1984
+358,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Emily Huei-Yi Shen,Emily,Huei-Yi,Shen,Computer Science,Palo Alto,California,,Yes,Yes,1984
+359,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Helen Hong Shi,Helen,Hong,Shi,Environmental Engineering,Palo Alto,California,,Yes,Yes,1984
+360,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Yangyang Shi,Yangyang,,Shi,Electrical Engineering,Palo Alto,California,,No,No,1984
+361,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Zhi Xiang Kevin Siew,Zhi Xiang,Kevin,Siew,Management Science and Engineering,Palo Alto,California,Singapore,Interdisciplinary Honors Program in International Security Studies,No,1984
+362,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Harsimran Singh,Harsimran,,Singh,Computer Science,Palo Alto,California,Australia,No,No,1984
+363,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Marina Sirota,Marina,,Sirota,"Engineering, Field: Biomedical Computation",Palo Alto,California,,No,No,1984
+364,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Travis Michael Skare,Travis,Michael,Skare,"Engineering, Field: Computer Systems Engineering",Palo Alto,California,,No,No,1984
+365,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Samantha Lynn Skupa,Samantha,Lynn,Skupa,"Engineering, Field: Product Design",Palo Alto,California,,No,No,1984
+366,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Colleen Mary Smith,Colleen,Mary,Smith,"Engineering, Field: Aeronautics and Astronautics",Palo Alto,California,,No,No,1984
+367,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Jesse Allen Smith,Jesse,Allen,Smith,Civil Engineering,Palo Alto,California,,No,No,1984
+368,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Michael Kollin Smith,Michael,Kollin,Smith,Electrical Engineering,Palo Alto,California,,No,No,1984
+369,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Brian Thomas Staver,Brian,Thomas,Staver,"Engineering, Field: Biomechanical Engineering",Palo Alto,California,,No,No,1984
+370,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Rolf Erik Steier,Rolf,Erik,Steier,"Engineering, Field: Product Design",Palo Alto,California,,No,No,1984
+371,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Mark Craig Stephens,Mark,Craig,Stephens,"Engineering, Field: Product Design",Palo Alto,California,,No,No,1984
+372,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Joshua James Giencke Stem,Joshua James,Giencke,Stem,Computer Science,Palo Alto,California,,No,No,1984
+373,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Stephanie Gitanjali Sud,Stephanie,Gitanjali,Sud,Civil Engineering,Palo Alto,California,,No,No,1984
+374,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Dominika Sudomir,Dominika,,Sudomir,Environmental Engineering,Palo Alto,California,Poland,No,No,1984
+375,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Robert David Sumpf Jr.,Robert,David,Sumpf Jr.,Mechanical Engineering,Palo Alto,California,,No,No,1984
+376,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Jeff Sun,Jeff,,Sun,Computer Science,Palo Alto,California,,No,No,1984
+377,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Andrew Ji-Yong Sung,Andrew,Ji-Yong,Sung,Chemical Engineering,Palo Alto,California,,Yes,No,1984
+378,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Varun Swamp,Varun,,Swamp,Mechanical Engineering,Palo Alto,California,India,No,No,1984
+379,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Kevin York Systrom,Kevin,York,Systrom,Management Science and Engineering,Palo Alto,California,,No,Yes,1984
+380,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Wilfred Sze Wai Tang,Wilfred Sze,Wai,Tang,Management Science and Engineering,Palo Alto,California,,No,No,1984
+381,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Daniel Stefan Tarlow,Daniel,Stefan,Tarlow,Computer Science,Palo Alto,California,,No,No,1984
+382,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Jennifer Chisa Tashiro,Jennifer,Chisa,Tashiro,Mechanical Engineering,Palo Alto,California,,No,No,1984
+383,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Jaireh Tecarro,Jaireh,,Tecarro,"Engineering, Field: Product Design",Palo Alto,California,,No,No,1984
+384,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Yuriy Teslyar,Yuriy,,Teslyar,Electrical Engineering,Palo Alto,California,,Yes,No,1984
+385,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Michael Gordon Thielvoldt,Michael,Gordon,Thielvoldt,Mechanical Engineering,Palo Alto,California,,No,No,1984
+386,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Nhan Thien Tran,Nhan,Thien,Tran,Computer Science,Palo Alto,California,,No,No,1984
+387,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Wan Yean Tran,Wan,Yean,Tran,Electrical Engineering,Palo Alto,California,,No,No,1984
+388,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Christopher John Truxaw,Christopher,John,Truxaw,Mechanical Engineering,Palo Alto,California,,No,No,1984
+389,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Timothy Jwoyen Tsai,Timothy,Jwoyen,Tsai,Electrical Engineering,Palo Alto,California,,No,Yes,1984
+390,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Tommy Sze Ngai Tsai,Tommy Sze,Ngai,Tsai,Electrical Engineering,Palo Alto,California,Hong Kong,No,Yes,1984
+391,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Henry Nai-Fu Tsao,Henry,Nai-Fu,Tsao,Mechanical Engineering and Physics,Palo Alto,California,,No,No,1984
+392,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Victor Tze-Yeuan Tso,Victor,Tze-Yeuan,Tso,Computer Science,Palo Alto,California,,No,No,1984
+393,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Julie Christina Tung,Julie,Christina,Tung,Computer Science,Palo Alto,California,,No,Yes,1984
+394,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Marcus Gerard Turner,Marcus,Gerard,Turner,Mechanical Engineering,Palo Alto,California,,No,No,1984
+395,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Dana Macy Ung,Dana,Macy,Ung,Mechanical Engineering,Palo Alto,California,,No,No,1984
+396,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Akshay Yogesh Upadhyaya,Akshay,Yogesh,Upadhyaya,Electrical Engineering,Palo Alto,California,,No,No,1984
+397,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Peter Dale Varellas,Peter,Dale,Varellas,Management Science and Engineering,Palo Alto,California,,No,No,1984
+398,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Luis Paul Vendrell,Luis,Paul,Vendrell,Mechanical Engineering,Palo Alto,California,,No,No,1984
+399,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Mark William Verheggen,Mark,William,Verheggen,Electrical Engineering,Palo Alto,California,,No,No,1984
+400,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Anh Thu Thi Vo,Anh Thu,Thi,Vo,Management Science and Engineering,Palo Alto,California,,No,No,1984
+401,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Anshul Wadhawan,Anshul,,Wadhawan,Electrical Engineering,Palo Alto,California,India,No,No,1984
+402,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Michael C. Waldo,Michael,C.,Waldo,Mechanical Engineering,Palo Alto,California,,No,No,1984
+403,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",ChenLi Wang,ChenLi,,Wang,Computer Science,Palo Alto,California,,No,Yes,1984
+404,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",David Ke Kong Wang,David,Ke Kong,Wang,Mechanical Engineering,Palo Alto,California,,No,No,1984
+405,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Eric Niven Wanless,Eric,Niven,Wanless,Environmental Engineering,Palo Alto,California,,No,No,1984
+406,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Sandeep Singh Wasan,Sandeep,Singh,Wasan,Management Science and Engineering,Palo Alto,California,Singapore,No,No,1984
+407,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Alfred Helmut Benito Wechselberger,Alfred Helmut,Benito,Wechselberger,Electrical Engineering,Palo Alto,California,,No,No,1984
+408,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Nichelle Tia Wentz,Nichelle,Tia,Wentz,Management Science and Engineering,Palo Alto,California,,No,No,1984
+409,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Debra Laura White,Debra,Laura,White,Mechanical Engineering,Palo Alto,California,,No,No,1984
+410,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Tiffany Michelle White,Tiffany,Michelle,White,Management Science and Engineering,Palo Alto,California,,No,No,1984
+411,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Piotr Andrzej Wianecki,Piotr,Andrzej,Wianecki,Materials Science and Engineering,Palo Alto,California,,No,Yes,1984
+412,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Sparkle Joy Williams,Sparkle,Joy,Williams,"Engineering, Field: Biomechanical Engineering",Palo Alto,California,,No,No,1984
+413,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Andrew Page Willis-Woodward,Andrew,Page,Willis-Woodward,Computer Science,Palo Alto,California,,No,No,1984
+414,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Tomasz Pawel Wojcik,Tomasz,Pawel,Wojcik,Mechanical Engineering,Palo Alto,California,,No,No,1984
+415,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Jeremy Hanfai Wong,Jeremy,Hanfai,Wong,Electrical Engineering,Palo Alto,California,,No,No,1984
+416,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Charles Barnard Woodhull,Charles,Barnard,Woodhull,Mechanical Engineering,Palo Alto,California,,No,No,1984
+417,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Eric A. Wooley,Eric,A.,Wooley,Mechanical Engineering,Palo Alto,California,,No,No,1984
+418,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",James Stephen Wu,James,Stephen,Wu,Electrical Engineering,Palo Alto,California,,No,No,1984
+419,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Xuan Wu,Xuan,,Wu,Electrical Engineering,Palo Alto,California,,No,No,1984
+420,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Samuel Jiahn-Hua Yam,Samuel,Jiahn-Hua,Yam,Computer Science,Palo Alto,California,,No,No,1984
+421,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Jonson Manhong Yee,Jonson,Manhong,Yee,Chemical Engineering,Palo Alto,California,,No,No,1984
+422,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Yoo-Hsiu Yeh,Yoo-Hsiu,,Yeh,Electrical Engineering,Palo Alto,California,,No,No,1984
+423,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Corina To Yen,Corina,To,Yen,Mechanical Engineering,Palo Alto,California,,No,No,1984
+424,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Jesse William Young,Jesse,William,Young,Electrical Engineering,Palo Alto,California,,No,Yes,1984
+425,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Sandy Yu,Sandy,,Yu,Electrical Engineering,Palo Alto,California,,No,No,1984
+426,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Marshall James Yuan,Marshall,James,Yuan,Electrical Engineering,Palo Alto,California,,No,No,1984
+427,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Michael Alan Zell,Michael,Alan,Zell,Management Science and Engineering,Palo Alto,California,,No,No,1984
+428,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Michael Yu Zhang,Michael,Yu,Zhang,Chemical Engineering,Palo Alto,California,,No,Yes,1984
+429,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Yinan Zhao,Yinan,,Zhao,Electrical Engineering,Palo Alto,California,,No,No,1984
+430,Stanford University,School of Engineering,Bachelor of Science,"June 18, 2006",Julie Li Zhuo,Julie,Li,Zhuo,Computer Science,Palo Alto,California,,No,Yes,1984
+431,Stanford University,School of Engineering,Bachelor of Arts and Science,"April 6, 2006",Monica Miyazawa,Monica,,Miyazawa,Computer Science and Human Biology,Palo Alto,California,,"Interdisciplinary Honors Program in Science, Technology, and Society",No,1984
+432,Stanford University,School of Engineering,Bachelor of Arts and Science,"June 18, 2006",Marcela Delgado,Marcela,,Delgado,Engineering and Spanish,Palo Alto,California,,No,No,1984
+433,Stanford University,School of Engineering,Bachelor of Arts and Science,"June 18, 2006",Erik Hubert Goossens,Erik,Hubert,Goossens,Engineering and International Relations,Palo Alto,California,,No,No,1984
+434,Stanford University,School of Engineering,Bachelor of Arts and Science,"June 18, 2006",Pascal Christopher Mues,Pascal,Christopher,Mues,Environmental Engineering and Japanese,Palo Alto,California,,No,No,1984
+435,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Kiran Rose Auerbach,Kiran,Rose,Auerbach,International Relations,Palo Alto,California,,No,No,1984
+436,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Sara Marie Bei,Sara,Marie,Bei,Human Biology,Palo Alto,California,,No,No,1984
+437,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Blair Miliama Bohannan,Blair,Miliama,Bohannan,Music,Palo Alto,California,,No,No,1984
+438,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Mark Eldred Brunst,Mark,Eldred,Brunst,English,Palo Alto,California,,No,No,1984
+439,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Emily Ann Carter,Emily,Ann,Carter,Economics,Palo Alto,California,,No,No,1984
+440,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Chi-En Grace Chien,Chi-En,Grace,Chien,Urban Studies,Palo Alto,California,,No,Yes,1984
+441,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Cynthia Haeyeon Cho,Cynthia,Haeyeon,Cho,Political Science,Palo Alto,California,,Yes,No,1984
+442,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Reed Andrew Criddle,Reed,Andrew,Criddle,Chinese and Music,Palo Alto,California,,Yes,No,1984
+443,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Eric Janies Dilulio,Eric,Janies,Dilulio,International Relations,Palo Alto,California,,No,No,1984
+444,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Erin Patricia Dobratz,Erin,Patricia,Dobratz,Communication,Palo Alto,California,,No,No,1984
+445,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Sarah Victoria Bothwell Fels,Sarah Victoria,Bothwell,Fels,Psychology,Palo Alto,California,,No,No,1984
+446,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Emily Petru Flynn,Emily,Petru,Flynn,Human Biology,Palo Alto,California,,No,No,1984
+447,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Juliet Rose Frerking,Juliet,Rose,Frerking,International Relations,Palo Alto,California,,Yes,No,1984
+448,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Marisa Simoue Gallo,Marisa,Simoue,Gallo,Human Biology,Palo Alto,California,,No,No,1984
+449,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Kristin Elizabeth Gangwer,Kristin,Elizabeth,Gangwer,Anthropological Sciences,Palo Alto,California,,No,No,1984
+450,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Nicholas Adam Geballe,Nicholas,Adam,Geballe,Psychology,Palo Alto,California,,No,No,1984
+451,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Bobby Debraj Ghosh,Bobby,Debraj,Ghosh,Economics,Palo Alto,California,,No,No,1984
+452,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Michael Alexander Oakes Huddleson,Michael Alexander,Oakes,Huddleson,Philosophy,Palo Alto,California,,No,No,1984
+453,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",James Edgar Huffman,James,Edgar,Huffman,Drama,Palo Alto,California,,No,No,1984
+454,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Patrick Shaw Jacobs,Patrick,Shaw,Jacobs,Religious Studies,Palo Alto,California,,No,No,1984
+455,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Kirsten M. Kinegak-Friday,Kirsten,M.,Kinegak-Friday,Philosophy,Palo Alto,California,,No,No,1984
+456,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Darya Landa,Darya,,Landa,Political Science,Palo Alto,California,,No,No,1984
+457,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Ian Keun Lee,Ian,Keun,Lee,International Relations,Palo Alto,California,,No,No,1984
+458,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Keltou Stier Luber,Keltou,Stier,Luber,Spanish,Palo Alto,California,,No,No,1984
+459,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Kenneth Tolon McCandless,Kenneth,Tolon,McCandless,Sociology,Palo Alto,California,,No,No,1984
+460,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Chris J. Montague-Breakwell,Chris,J.,Montague-Breakwell,History,Palo Alto,California,,Yes,No,1984
+461,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Caroline Elizabeth Moore-Kochlacs,Caroline,Elizabeth,Moore-Kochlacs,German Studies,Palo Alto,California,,No,No,1984
+462,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Diana Ruth Movius,Diana,Ruth,Movius,Anthropological Sciences,Palo Alto,California,,No,No,1984
+463,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Yohko Murakami,Yohko,,Murakami,Human Biology,Palo Alto,California,Japan,Yes,No,1984
+464,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Lan My Ngo,Lan,My,Ngo,Economics,Palo Alto,California,,No,No,1984
+465,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Andrew Robert Nielsen,Andrew,Robert,Nielsen,English,Palo Alto,California,,No,No,1984
+466,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Erica Wayching O?Young,Erica,Wayching,O?Young,Communication,Palo Alto,California,,No,No,1984
+467,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Maria Patricia Orduna,Maria,Patricia,Orduna,Psychology,Palo Alto,California,,No,No,1984
+468,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Laura Pearson,Laura,,Pearson,English,Palo Alto,California,,No,No,1984
+469,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Lauren Nora Rodriguez,Lauren,Nora,Rodriguez,Human Biology,Palo Alto,California,,Interdisciplinary Honors Program in Latin American Studies,No,1984
+470,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Andrew Ceejay Sand,Andrew,Ceejay,Sand,History,Palo Alto,California,,No,No,1984
+471,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Young Yee Shin,Young,Yee,Shin,Political Science,Palo Alto,California,,No,No,1984
+472,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Heather Lorraine Shook,Heather,Lorraine,Shook,International Relations,Palo Alto,California,,No,No,1984
+473,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Inga Astrida Small,Inga,Astrida,Small,Classics,Palo Alto,California,,No,No,1984
+474,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Jennifer Lynn Steiger,Jennifer,Lynn,Steiger,Political Science,Palo Alto,California,,No,No,1984
+475,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Brian Christopher Sze,Brian,Christopher,Sze,Economics,Palo Alto,California,,No,No,1984
+476,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Margo Elizabeth Thoma,Margo,Elizabeth,Thoma,"Art, Field: Art History",Palo Alto,California,,No,No,1984
+477,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Chelsea N. Trotter,Chelsea,N.,Trotter,International Relations,Palo Alto,California,,No,No,1984
+478,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Story Tieh Tweedie-Yates,Story,Tieh,Tweedie-Yates,Psychology,Palo Alto,California,,No,No,1984
+479,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Nicole Vazquez,Nicole,,Vazquez,English,Palo Alto,California,,No,No,1984
+480,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Visra Vichit-Vadakan,Visra,,Vichit-Vadakan,Human Biology,Palo Alto,California,Thailand,No,No,1984
+481,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Omar Tomas Wasow,Omar,Tomas,Wasow,Race and Ethnic Relations,Palo Alto,California,,No,No,1984
+482,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Jessica Leigh Weiss,Jessica,Leigh,Weiss,International Relations,Palo Alto,California,,No,No,1984
+483,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Enita Ann Williams,Enita,Ann,Williams,Public Policy,Palo Alto,California,,No,No,1984
+484,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Sabrina Betsy Williams,Sabrina,Betsy,Williams,Philosophy,Palo Alto,California,,No,No,1984
+485,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"September 29, 2005",Stanley Tobias Wilson,Stanley,Tobias,Wilson,Urban Studies,Palo Alto,California,,No,No,1984
+486,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Carolyn Eve Abram,Carolyn,Eve,Abram,English,Palo Alto,California,,No,No,1984
+487,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Jeffrey Scott Allen,Jeffrey,Scott,Allen,International Relations,Palo Alto,California,,No,No,1984
+488,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Julius Teueli Barnes,Julius,Teueli,Barnes,Sociology,Palo Alto,California,,No,No,1984
+489,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Dmitry B. Belogolovsky,Dmitry,B.,Belogolovsky,Economics,Palo Alto,California,,No,No,1984
+490,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Ryan Allen Cary,Ryan,Allen,Cary,Economics,Palo Alto,California,,No,No,1984
+491,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Vickie Z. Chiang,Vickie,Z.,Chiang,International Relations,Palo Alto,California,,No,No,1984
+492,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Yung-Ann Chin,Yung-Ann,,Chin,Economics,Palo Alto,California,,No,No,1984
+493,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Ngosa Victoria Chungu,Ngosa,Victoria,Chungu,Communication,Palo Alto,California,Zambia,No,No,1984
+494,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Caroline Marie Ciccone,Caroline,Marie,Ciccone,International Relations,Palo Alto,California,,No,No,1984
+495,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Jayme Olivier Cramer,Jayme,Olivier,Cramer,Economics,Palo Alto,California,,No,No,1984
+496,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Andrew John Cross,Andrew,John,Cross,History,Palo Alto,California,,No,No,1984
+497,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Shallene Marie Cua,Shallene,Marie,Cua,Economics,Palo Alto,California,,No,Yes,1984
+498,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Elizabeth Rose Derse,Elizabeth,Rose,Derse,Human Biology,Palo Alto,California,,Yes,No,1984
+499,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Jeffrey Richard Gilmore,Jeffrey,Richard,Gilmore,History,Palo Alto,California,,No,No,1984
+500,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Monika Kristine Gramckow,Monika,Kristine,Gramckow,Human Biology,Palo Alto,California,,No,No,1984
+501,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Leahi Davis Naone Hall,Leahi Davis,Naone,Hall,Cultural and Social Anthropology,Palo Alto,California,,No,No,1984
+502,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Christopher Michael Hernandez,Christopher,Michael,Hernandez,Sociology,Palo Alto,California,,No,No,1984
+503,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Whitney Price Hopkins,Whitney,Price,Hopkins,Human Biology,Palo Alto,California,,Yes,No,1984
+504,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Jeffrey Changsu Hu,Jeffrey,Changsu,Hu,Economics,Palo Alto,California,People?s Republic of China,No,Yes,1984
+505,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Martha Francine Hutton,Martha,Francine,Hutton,Political Science,Palo Alto,California,,No,No,1984
+506,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Marcello Isaac,Marcello,,Isaac,Comparative Studies in Race and Ethnicity,Palo Alto,California,,No,No,1984
+507,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",John Anthony Jackson,John,Anthony,Jackson,History,Palo Alto,California,,No,No,1984
+508,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Jia Ji,Jia,,Ji,Communication,Palo Alto,California,,No,No,1984
+509,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Adam Scott Kahn,Adam,Scott,Kahn,History,Palo Alto,California,,No,No,1984
+510,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Branden LeRoi Kelly,Branden,LeRoi,Kelly,Economics and Political Science,Palo Alto,California,,No,No,1984
+511,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Sebnem Nezahat Kimyacioglu,Sebnem,Nezahat,Kimyacioglu,Economics,Palo Alto,California,,No,No,1984
+512,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Allison Lind Kirkwood,Allison,Lind,Kirkwood,Human Biology,Palo Alto,California,,No,No,1984
+513,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Amber Kaihele Ladera,Amber,Kaihele,Ladera,Communication,Palo Alto,California,,Yes,No,1984
+514,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Whitney Elliott Leatherwood,Whitney,Elliott,Leatherwood,Human Biology,Palo Alto,California,,No,No,1984
+515,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Brian Won Lee,Brian,Won,Lee,Economics,Palo Alto,California,,No,No,1984
+516,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Louis Sze Ho Leung,Louis,Sze Ho,Leung,Communication,Palo Alto,California,Hong Kong,No,No,1984
+517,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Michael Jason Lewis,Michael,Jason,Lewis,Economics,Palo Alto,California,,No,No,1984
+518,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Alyssa Yung-Lan Liang,Alyssa,Yung-Lan,Liang,English,Palo Alto,California,,No,No,1984
+519,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Jennifer Irene Lint,Jennifer,Irene,Lint,Human Biology,Palo Alto,California,,No,No,1984
+520,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Hannah Stier Luber,Hannah,Stier,Luber,Spanish,Palo Alto,California,,No,No,1984
+521,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Aaron Edward Marestaing,Aaron,Edward,Marestaing,Philosophy,Palo Alto,California,,No,No,1984
+522,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Matthew Scott McDonald,Matthew,Scott,McDonald,Economics,Palo Alto,California,,No,No,1984
+523,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Devon Marcus McGee,Devon,Marcus,McGee,Human Biology,Palo Alto,California,,No,Yes,1984
+524,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Rachel Rebekah McNeil,Rachel,Rebekah,McNeil,Drama,Palo Alto,California,,No,No,1984
+525,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Lauren Danielle Midthun,Lauren,Danielle,Midthun,Spanish,Palo Alto,California,,No,Yes,1984
+526,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Jennifer Ann Miller,Jennifer,Ann,Miller,Human Biology,Palo Alto,California,,No,No,1984
+527,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Alexander Dematatis Moore,Alexander,Dematatis,Moore,Economics,Palo Alto,California,,No,No,1984
+528,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Ogonna Nneka Nnamani,Ogonna,Nneka,Nnamani,Human Biology,Palo Alto,California,,No,No,1984
+529,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Christine Teav Pal,Christine,Teav,Pal,Economics,Palo Alto,California,,Yes,No,1984
+530,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Keun Hee Park,Keun,Hee,Park,Human Biology,Palo Alto,California,,Yes,No,1984
+531,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Kate Elizabeth Pedatella,Kate,Elizabeth,Pedatella,Political Science,Palo Alto,California,,Yes,No,1984
+532,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Benedikt Friedrich Prinz,Benedikt,Friedrich,Prinz,International Relations,Palo Alto,California,,No,No,1984
+533,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Ceron Joseph Rhee,Ceron,Joseph,Rhee,Economics,Palo Alto,California,,No,Yes,1984
+534,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Mark Joseph Romanczuk,Mark,Joseph,Romanczuk,Economics,Palo Alto,California,,No,No,1984
+535,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Valerie Wass Rozycki,Valerie,Wass,Rozycki,Public Policy,Palo Alto,California,,Yes,Yes,1984
+536,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Marion Crawford Samuelson,Marion,Crawford,Samuelson,Economics,Palo Alto,California,,No,No,1984
+537,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Rebecca Anne Sawyer,Rebecca,Anne,Sawyer,History,Palo Alto,California,,No,No,1984
+538,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Nathan Alexander Sheppard,Nathan,Alexander,Sheppard,Communication,Palo Alto,California,,No,No,1984
+539,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Nicholas Anthony Silvas,Nicholas,Anthony,Silvas,Human Biology,Palo Alto,California,,No,No,1984
+540,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Joshua H. Spires,Joshua,H.,Spires,Philosophy,Palo Alto,California,,No,No,1984
+541,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",David Clough Stat,David,Clough,Stat,Human Biology,Palo Alto,California,,No,No,1984
+542,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Ethan Andrew Steele,Ethan,Andrew,Steele,History and Political Science,Palo Alto,California,,No,Yes,1984
+543,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Eric Joseph Tanner,Eric,Joseph,Tanner,History,Palo Alto,California,,No,No,1984
+544,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",James Lindell Threatt,James,Lindell,Threatt,Psychology,Palo Alto,California,,No,No,1984
+545,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Jacob Kenneth Tokars,Jacob,Kenneth,Tokars,English,Palo Alto,California,,No,No,1984
+546,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Richard Bryan Vaughn,Richard,Bryan,Vaughn,International Relations,Palo Alto,California,,No,No,1984
+547,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Srinidhi Vijaykumar,Srinidhi,,Vijaykumar,History,Palo Alto,California,,No,No,1984
+548,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Peter Jay Willhoite,Peter,Jay,Willhoite,Philosophy and Religious Studies,Palo Alto,California,,No,No,1984
+549,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"January 12, 2006",Jessica Yan Ting Wong,Jessica,Yan Ting,Wong,English,Palo Alto,California,,No,No,1984
+550,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Mae Ackerman-Brimberg,Mae,,Ackerman-Brimberg,Political Science,Palo Alto,California,,No,No,1984
+551,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Stephanie Sarah Adamowicz,Stephanie,Sarah,Adamowicz,History,Palo Alto,California,,No,No,1984
+552,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Brianna Maree Allred,Brianna,Maree,Allred,Human Biology,Palo Alto,California,,No,No,1984
+553,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Andrew R. Ardinger,Andrew,R.,Ardinger,History,Palo Alto,California,,No,Yes,1984
+554,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Sarah Ellen Baker,Sarah,Ellen,Baker,Human Biology,Palo Alto,California,,No,No,1984
+555,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Clare-Martine Gunther Baldwin,Clare-Martine,Gunther,Baldwin,English,Palo Alto,California,,No,No,1984
+556,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Jennifer Elizabeth Barchi,Jennifer,Elizabeth,Barchi,International Relations,Palo Alto,California,,No,Yes,1984
+557,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Kenneth W. Black,Kenneth,W.,Black,Psychology,Palo Alto,California,,No,No,1984
+558,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Jenna Kaitlin Boiler,Jenna,Kaitlin,Boiler,History,Palo Alto,California,,No,No,1984
+559,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Caitlin Ellen Borger,Caitlin,Ellen,Borger,Economics,Palo Alto,California,,No,No,1984
+560,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Alexandra Lee Bowe,Alexandra,Lee,Bowe,English,Palo Alto,California,,No,No,1984
+561,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Joshua Jurow Brown,Joshua,Jurow,Brown,Human Biology,Palo Alto,California,,No,No,1984
+562,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Megan Groves Burker,Megan,Groves,Burker,Urban Studies,Palo Alto,California,,No,No,1984
+563,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Jennifer Rose Carr,Jennifer,Rose,Carr,English,Palo Alto,California,,Yes,Yes,1984
+564,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Cyndy Meng Ying Chen,Cyndy,Meng Ying,Chen,English,Palo Alto,California,,No,No,1984
+565,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Mark J. Chen,Mark,J.,Chen,Economics,Palo Alto,California,,No,No,1984
+566,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Minna Minsing Chen,Minna,Minsing,Chen,Music,Palo Alto,California,,No,Yes,1984
+567,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Natasha Yi-peng Chen,Natasha,Yi-peng,Chen,Psychology,Palo Alto,California,,No,No,1984
+568,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Alice Julia Chow,Alice,Julia,Chow,Human Biology,Palo Alto,California,,No,No,1984
+569,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Jennifer J. Coolidge,Jennifer,J.,Coolidge,Psychology,Palo Alto,California,,No,No,1984
+570,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Kathryne Allegra Cooper,Kathryne,Allegra,Cooper,Human Biology,Palo Alto,California,,No,No,1984
+571,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Jennifer Lee Dawson,Jennifer,Lee,Dawson,American Studies,Palo Alto,California,,No,Yes,1984
+572,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Amanda Nicole Delgado,Amanda,Nicole,Delgado,Human Biology,Palo Alto,California,,No,No,1984
+573,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Emilie Selin Dettamanti-Keskekci,Emilie,Selin,Dettamanti-Keskekci,Economics,Palo Alto,California,,No,No,1984
+574,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Stewart Hutton Dorsey,Stewart,Hutton,Dorsey,Philosophy and Spanish,Palo Alto,California,,No,No,1984
+575,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Lauren Colleen Dunagan,Lauren,Colleen,Dunagan,Drama,Palo Alto,California,,No,Yes,1984
+576,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Adam Charles Eichner,Adam,Charles,Eichner,Economics,Palo Alto,California,,No,No,1984
+577,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Michelle Marie Erdrich,Michelle,Marie,Erdrich,International Relations,Palo Alto,California,,No,No,1984
+578,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Elysa Wesley Fenenbock,Elysa,Wesley,Fenenbock,Art,Palo Alto,California,,No,No,1984
+579,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Stephanie Lina Friedman,Stephanie,Lina,Friedman,Drama,Palo Alto,California,,No,No,1984
+580,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Steven Blaine Gerberman,Steven,Blaine,Gerberman,Sociology,Palo Alto,California,,No,No,1984
+581,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Brandon Woodward Glier,Brandon,Woodward,Glier,Political Science,Palo Alto,California,IBinois,No,No,1984
+582,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Jacqueline Ryse Goldman,Jacqueline,Ryse,Goldman,Psychology,Palo Alto,California,,No,Yes,1984
+583,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Shirin Mina Golkar,Shirin,Mina,Golkar,English,Palo Alto,California,,No,No,1984
+584,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Cynthia Milagros Gomez,Cynthia,Milagros,Gomez,Human Biology,Palo Alto,California,,No,No,1984
+585,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Nicole Rose Gomez,Nicole,Rose,Gomez,International Relations,Palo Alto,California,,No,No,1984
+586,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Nalani Louise Grace,Nalani,Louise,Grace,Human Biology,Palo Alto,California,,No,No,1984
+587,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Benjamin Boyd Grant,Benjamin,Boyd,Grant,International Relations,Palo Alto,California,,No,No,1984
+588,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Elysia Beth Gruber,Elysia,Beth,Gruber,Economics,Palo Alto,California,,No,No,1984
+589,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Daniel Leslie Grunfeld,Daniel,Leslie,Grunfeld,American Studies,Palo Alto,California,,No,No,1984
+590,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Benjamin Cameron Guthrie,Benjamin,Cameron,Guthrie,Economics,Palo Alto,California,,No,Yes,1984
+591,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Whitney Nicole Harris,Whitney,Nicole,Harris,Anthropological Sciences,Palo Alto,California,,No,No,1984
+592,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Katherine Locke Harvey,Katherine,Locke,Harvey,Political Science,Palo Alto,California,,No,No,1984
+593,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Heidi Meredith Herrick,Heidi,Meredith,Herrick,Human Biology,Palo Alto,California,,No,Yes,1984
+594,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Katharine Ransom Hill,Katharine,Ransom,Hill,Political Science,Palo Alto,California,,No,No,1984
+595,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",John Austin Holgate,John,Austin,Holgate,Economics,Palo Alto,California,,No,No,1984
+596,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Brandi Lyn Hollingsworth,Brandi,Lyn,Hollingsworth,Public Policy,Palo Alto,California,,No,No,1984
+597,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Kate Maegan Horowitz,Kate,Maegan,Horowitz,Communication,Palo Alto,California,,No,No,1984
+598,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Antonio John Iannarone,Antonio,John,Iannarone,Spanish,Palo Alto,California,,No,No,1984
+599,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Janell Denise Jackson,Janell,Denise,Jackson,Human Biology,Palo Alto,California,,No,No,1984
+600,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Justine Tatiana. Javier-Borja,Justine,Tatiana.,Javier-Borja,International Relations,Palo Alto,California,,No,No,1984
+601,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Amanda Megan Johnson,Amanda,Megan,Johnson,Human Biology,Palo Alto,California,,Yes,Yes,1984
+602,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Andrew Warren Karasek,Andrew,Warren,Karasek,History,Palo Alto,California,,No,No,1984
+603,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Casey J. Kauffman,Casey,J.,Kauffman,Political Science,Palo Alto,California,,No,No,1984
+604,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Andrew Royall Kieve,Andrew,Royall,Kieve,International Relations,Palo Alto,California,,No,No,1984
+605,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Joseph Robert Kilburg,Joseph,Robert,Kilburg,Psychology,Palo Alto,California,,No,No,1984
+606,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Valerie Ann Kruley,Valerie,Ann,Kruley,English,Palo Alto,California,,No,No,1984
+607,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Suksiri Kulvaraporn,Suksiri,,Kulvaraporn,Bangkok,Palo Alto,California,,No,No,1984
+608,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Sofia Claudia Leon,Sofia,Claudia,Leon,Political Science,Palo Alto,California,,No,No,1984
+609,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Marina Lani Lieban,Marina,Lani,Lieban,Communication,Palo Alto,California,,No,No,1984
+610,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Elizabeth Rose Majors,Elizabeth,Rose,Majors,Psychology,Palo Alto,California,,No,No,1984
+611,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Matthew James Manship,Matthew,James,Manship,Economics,Palo Alto,California,,No,No,1984
+612,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Mariko Jessica McDonagh,Mariko,Jessica,McDonagh,International Relations,Palo Alto,California,,No,No,1984
+613,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Michael Ray McLean Jr.,Michael,Ray,McLean Jr.,Economics,Palo Alto,California,,No,No,1984
+614,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Michael Joseph Medrano,Michael,Joseph,Medrano,Economics,Palo Alto,California,,No,No,1984
+615,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Joshua Michael Mendoza,Joshua,Michael,Mendoza,English,Palo Alto,California,,No,No,1984
+616,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Anne Michelle Miller,Anne,Michelle,Miller,English,Palo Alto,California,,No,No,1984
+617,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Sarah Laurel Nash,Sarah,Laurel,Nash,International Relations,Palo Alto,California,,No,No,1984
+618,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Stephanie Ngoc Tu Nguyen,Stephanie,Ngoc Tu,Nguyen,Human Biology,Palo Alto,California,,No,Yes,1984
+619,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Seth Edward Ort,Seth,Edward,Ort,Political Science,Palo Alto,California,,No,No,1984
+620,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Amy June Pentz,Amy,June,Pentz,Human Biology,Palo Alto,California,,No,No,1984
+621,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Andrew Marshall Peterson,Andrew,Marshall,Peterson,"Science, Technology, and Society",Palo Alto,California,,No,No,1984
+622,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Carleen Celeste Pino,Carleen,Celeste,Pino,Slavic Languages and Literatures,Palo Alto,California,,No,No,1984
+623,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Markus Provence,Markus,,Provence,English,Palo Alto,California,,No,Yes,1984
+624,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Coleman Rivera Radell,Coleman,Rivera,Radell,Economics,Palo Alto,California,,No,No,1984
+625,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Evan Abram Raff,Evan,Abram,Raff,Human Biology,Palo Alto,California,,No,No,1984
+626,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Michael Edward James Reding,Michael Edward,James,Reding,Psychology,Palo Alto,California,,Yes,Yes,1984
+627,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Mary Chelsea Reinhardt,Mary,Chelsea,Reinhardt,International Relations,Palo Alto,California,,No,Yes,1984
+628,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Mamie Marie Rheingold,Mamie,Marie,Rheingold,Urban Studies,Palo Alto,California,,No,No,1984
+629,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Katherine Julie Rice,Katherine,Julie,Rice,Human Biology,Palo Alto,California,,No,No,1984
+630,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Susanna Margaret Rinard,Susanna,Margaret,Rinard,Philosophy,Palo Alto,California,,Yes,Yes,1984
+631,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Breann Elise Robowski,Breann,Elise,Robowski,Political Science,Palo Alto,California,,No,No,1984
+632,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Alexandra Rosen,Alexandra,,Rosen,Economics,Palo Alto,California,,No,No,1984
+633,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",SoniaPreet Kaur Samagh,SoniaPreet,Kaur,Samagh,Human Biology,Palo Alto,California,,No,No,1984
+634,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Dustin Gabriel Sanchez,Dustin,Gabriel,Sanchez,Human Biology,Palo Alto,California,,No,No,1984
+635,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Laura Kathrynn Severson,Laura,Kathrynn,Severson,Political Science,Palo Alto,California,,No,No,1984
+636,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Michael David Sgroi,Michael,David,Sgroi,Human Biology,Palo Alto,California,,No,No,1984
+637,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Shefali Kosha Shah,Shefali,Kosha,Shah,Economics and Political Science,Palo Alto,California,,No,No,1984
+638,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Salome Yvonne Sheerer,Salome,Yvonne,Sheerer,American Studies and Japanese,Palo Alto,California,,No,No,1984
+639,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Michaela Rebecca Skioven,Michaela,Rebecca,Skioven,Cultural and Social Anthropology,Palo Alto,California,,No,No,1984
+640,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Joshua Paul Smith,Joshua,Paul,Smith,Political Science,Palo Alto,California,,No,No,1984
+641,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Jessica Cindy Su,Jessica,Cindy,Su,International Relations,Palo Alto,California,,No,Yes,1984
+642,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Eun A. Suh,Eun,A.,Suh,History,Palo Alto,California,,No,Yes,1984
+643,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Jessica Lauren Suttle,Jessica,Lauren,Suttle,International Relations,Palo Alto,California,,No,No,1984
+644,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Andrea Jean Swaney,Andrea,Jean,Swaney,International Relations,Palo Alto,California,,No,No,1984
+645,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Daniel Richard Taron,Daniel,Richard,Taron,International Relations,Palo Alto,California,,No,No,1984
+646,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Eugenie Taylor,Eugenie,,Taylor,English,Palo Alto,California,,No,No,1984
+647,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Samantha Nicole Taylor,Samantha,Nicole,Taylor,Communication,Palo Alto,California,,No,No,1984
+648,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",T?Nae Cheree Thiel,T?Nae,Cheree,Thiel,English,Palo Alto,California,,No,No,1984
+649,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Clare Whitney Tobin,Clare,Whitney,Tobin,Human Biology,Palo Alto,California,,No,No,1984
+650,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Sarah J. Vander Ploeg,Sarah,J.,Vander Ploeg,Comparative Studies in Race and Ethnicity,Palo Alto,California,,No,Yes,1984
+651,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",David Emetic Vidal,David,Emetic,Vidal,Human Biology,Palo Alto,California,,No,No,1984
+652,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Anthony Viola,Anthony,,Viola,Psychology,Palo Alto,California,,No,No,1984
+653,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Julie Amanda Walling,Julie,Amanda,Walling,Sociology,Palo Alto,California,Netherlands,Yes,No,1984
+654,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Samantha Catherine Wolffs,Samantha,Catherine,Wolffs,Psychology,Palo Alto,California,,No,No,1984
+655,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Jeanette Camille Woodbum,Jeanette,Camille,Woodbum,History,Palo Alto,California,,No,No,1984
+656,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Paola Bianca Worsley,Paola,Bianca,Worsley,Communication,Palo Alto,California,,No,No,1984
+657,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",John M. Yandell,John,M.,Yandell,International Relations,Palo Alto,California,,Interdisciplinary Honors Program in Latin American Studies,No,1984
+658,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Gregory James Yee,Gregory,James,Yee,English,Palo Alto,California,,No,No,1984
+659,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"April 6, 2006",Ruoyu Zhang,Ruoyu,,Zhang,Economics,Palo Alto,California,People?s Republic of China,No,No,1984
+660,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Bradley Jerome Aaronson,Bradley,Jerome,Aaronson,Urban Studies,Palo Alto,California,,No,No,1984
+661,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Aidee Abasia,Aidee,,Abasia,Public Policy,Palo Alto,California,,No,No,1984
+662,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Edem Jeremy Abotsi,Edem,Jeremy,Abotsi,International Relations,Palo Alto,California,,No,No,1984
+663,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Malasree Neepa Acharya,Malasree,Neepa,Acharya,Music and Public Policy,Palo Alto,California,,Yes,No,1984
+664,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Dena Renee Acosta,Dena,Renee,Acosta,American Studies,Palo Alto,California,,No,No,1984
+665,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Elda Acosta,Elda,,Acosta,International Relations and Spanish,Palo Alto,California,,No,No,1984
+666,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Adelina Rosa Viviana Acuna,Adelina Rosa,Viviana,Acuna,American Studies,Palo Alto,California,,No,Yes,1984
+667,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Maiko Emi Adachi,Maiko,Emi,Adachi,Urban Studies,Palo Alto,California,,Yes,No,1984
+668,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Laura Mansfield Adams,Laura,Mansfield,Adams,English,Palo Alto,California,,No,No,1984
+669,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Stephanie Rose Adams,Stephanie,Rose,Adams,English and Human Biology,Palo Alto,California,,No,No,1984
+670,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Eric David Adamson,Eric,David,Adamson,Psychology,Palo Alto,California,,No,No,1984
+671,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Samuel Garang Akau,Samuel,Garang,Akau,English,Palo Alto,California,Sudan,No,No,1984
+672,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Christina Nicole Alarcon,Christina,Nicole,Alarcon,Human Biology,Palo Alto,California,,No,No,1984
+673,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Megan Ashley Alderete,Megan,Ashley,Alderete,Economics,Palo Alto,California,,No,No,1984
+674,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Nathan John Aleman,Nathan,John,Aleman,Sociology,Palo Alto,California,,No,No,1984
+675,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Elizabeth Ann Almasi,Elizabeth,Ann,Almasi,Economics,Palo Alto,California,,Yes,No,1984
+676,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Charles Walter Alston,Charles,Walter,Alston,Human Biology,Palo Alto,California,,No,No,1984
+677,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Taylor Jillian Altman,Taylor,Jillian,Altman,English,Palo Alto,California,,Yes,No,1984
+678,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jamila Amarshi,Jamila,,Amarshi,"Art and Psychology, Field: Studio Art",Palo Alto,California,,Yes,No,1984
+679,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Alan Miguel Anderson,Alan,Miguel,Anderson,Economics,Palo Alto,California,Spain,No,No,1984
+680,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Emma Cushing Anderson,Emma,Cushing,Anderson,English,Palo Alto,California,,No,No,1984
+681,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jaymievieve G. Ang,Jaymievieve,G.,Ang,Human Biology,Palo Alto,California,,No,No,1984
+682,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Josephine Amy Aniobi,Josephine,Amy,Aniobi,American Studies,Palo Alto,California,,No,No,1984
+683,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Collin James Anthony,Collin,James,Anthony,Philosophy,Palo Alto,California,,Interdisciplinary Honors Program in Ethics in Society,No,1984
+684,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Kristy Chitu Anwuri,Kristy,Chitu,Anwuri,Human Biology,Palo Alto,California,,No,No,1984
+685,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Cristal Sara Aragon,Cristal,Sara,Aragon,Communication,Palo Alto,California,,No,No,1984
+686,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jermaine Jashon Archie,Jermaine,Jashon,Archie,Human Biology,Palo Alto,California,,No,No,1984
+687,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jonathan Blake Arnold,Jonathan,Blake,Arnold,History,Palo Alto,California,,No,No,1984
+688,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Samir Arora,Samir,,Arora,Economics,Palo Alto,California,,No,Yes,1984
+689,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Melanie Alexandra Atmadja,Melanie,Alexandra,Atmadja,Human Biology,Palo Alto,California,,No,No,1984
+690,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Daniel Theron Auerbach,Daniel,Theron,Auerbach,Philosophy,Palo Alto,California,,No,No,1984
+691,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jeffrey Wellington Austin,Jeffrey,Wellington,Austin,English,Palo Alto,California,,No,No,1984
+692,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Francis Cullen Averill III,Francis,Cullen,Averill III,Human Biology,Palo Alto,California,,No,No,1984
+693,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Keith Alexander Avila,Keith,Alexander,Avila,Economics,Palo Alto,California,,No,No,1984
+694,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Silvia A. Babikian,Silvia,A.,Babikian,History and Political Science,Palo Alto,California,,Yes,No,1984
+695,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Victoria Elouise Babin,Victoria,Elouise,Babin,International Relations,Palo Alto,California,,No,No,1984
+696,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Aaron Philip Baca,Aaron,Philip,Baca,International Relations,Palo Alto,California,,No,No,1984
+697,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Sarah Ashley Bach,Sarah,Ashley,Bach,Psychology,Palo Alto,California,,No,No,1984
+698,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Ben Roberts Backes,Ben,Roberts,Backes,Economics,Palo Alto,California,,Yes,No,1984
+699,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Alexandra Danielle Backis,Alexandra,Danielle,Backis,Feminist Studies,Palo Alto,California,,No,No,1984
+700,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Christopher Masaru Baer,Christopher,Masaru,Baer,Human Biology,Palo Alto,California,,Yes,No,1984
+701,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Britten Kekaimalie Bailey,Britten,Kekaimalie,Bailey,American Studies,Palo Alto,California,,No,No,1984
+702,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Kathleen Alda Balthrop-Lewis,Kathleen,Alda,Balthrop-Lewis,Religious Studies,Palo Alto,California,,Yes,Yes,1984
+703,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Beatrice Maria Letizia Barbareschi,Beatrice Maria,Letizia,Barbareschi,Feminist Studies,Palo Alto,California,Italy,No,No,1984
+704,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Glenwood Maurice Barbee II,Glenwood,Maurice,Barbee II,Classics,Palo Alto,California,,No,No,1984
+705,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Elizabeth Morris Barnard,Elizabeth,Morris,Barnard,Psychology,Palo Alto,California,,No,No,1984
+706,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Alice Joanna Barnes,Alice,Joanna,Barnes,"Art, Field: Art History",Palo Alto,California,United Kingdom,No,No,1984
+707,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Leigh Elizabeth Barnwell,Leigh,Elizabeth,Barnwell,English,Palo Alto,California,,No,No,1984
+708,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",David Saul Baron,David,Saul,Baron,Psychology,Palo Alto,California,,No,No,1984
+709,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Katharine Wiggin Barry,Katharine,Wiggin,Barry,History,Palo Alto,California,,No,No,1984
+710,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Clifford Matthews Baum,Clifford,Matthews,Baum,Psychology,Palo Alto,California,,No,No,1984
+711,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Catherine Caroline Bloodsworth Baylin,Catherine Caroline,Bloodsworth,Baylin,Political Science,Palo Alto,California,,Yes,No,1984
+712,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Katherine Baxter Bearman,Katherine,Baxter,Bearman,Cultural and Social Anthropology,Palo Alto,California,,No,Yes,1984
+713,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Mark M. Bekheit,Mark,M.,Bekheit,International Relations,Palo Alto,California,,No,No,1984
+714,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jacobe Deborah Bell,Jacobe,Deborah,Bell,Political Science,Palo Alto,California,,No,No,1984
+715,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Nicolas Martin Bell,Nicolas,Martin,Bell,Cultural and Social Anthropology,Palo Alto,California,,No,No,1984
+716,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Bryan Allen Bentrott,Bryan,Allen,Bentrott,International Relations,Palo Alto,California,,No,No,1984
+717,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Theresa Joan Berens,Theresa,Joan,Berens,Philosophy,Palo Alto,California,,No,No,1984
+718,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Kendra Joy Berenson,Kendra,Joy,Berenson,Humanities,Palo Alto,California,,"Interdisciplinary Honors Program in Humanities,",Yes,1984
+719,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",David Douglas Berg,David,Douglas,Berg,Human Biology,Palo Alto,California,,Yes,Yes,1984
+720,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Mark E. Berghausen,Mark,E.,Berghausen,Classics and Linguistics,Palo Alto,California,,No,Yes,1984
+721,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Brian Allan Bergtnark,Brian,Allan,Bergtnark,Human Biology,Palo Alto,California,,Yes,Yes,1984
+722,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Adey Abeba Berhanu,Adey,Abeba,Berhanu,Human Biology,Palo Alto,California,,No,No,1984
+723,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Sarah Katharine Berk,Sarah,Katharine,Berk,Economics,Palo Alto,California,,Interdisciplinary Honors Program in Ethics in Society,No,1984
+724,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Ilder Andres Betancourt,Ilder,Andres,Betancourt,Drama and Psychology,Palo Alto,California,,Yes,No,1984
+725,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Vineet A. Bhagwat,Vineet,A.,Bhagwat,Economics,Palo Alto,California,,Yes,No,1984
+726,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Charles John Bibilos,Charles,John,Bibilos,Economics,Palo Alto,California,,No,Yes,1984
+727,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Kristin Marie Bigback,Kristin,Marie,Bigback,Human Biology,Palo Alto,California,,No,No,1984
+728,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Laura Nicole Billadello,Laura,Nicole,Billadello,Human Biology,Palo Alto,California,,No,No,1984
+729,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Kathryn Ann Blair,Kathryn,Ann,Blair,History,Palo Alto,California,,Yes,No,1984
+730,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Raymond William Blake,Raymond,William,Blake,Psychology,Palo Alto,California,,No,No,1984
+731,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Christine Marie Boehm,Christine,Marie,Boehm,Political Science,Palo Alto,California,,Interdisciplinary Honors Program in Education,No,1984
+732,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Nicole Marietta Bonsol,Nicole,Marietta,Bonsol,Human Biology,Palo Alto,California,Canada,No,No,1984
+733,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Chioke Borgelt-Mose,Chioke,,Borgelt-Mose,African and African American Studies,Palo Alto,California,,No,No,1984
+734,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Adrian Berto Boscolo-Hightower,Adrian,Berto,Boscolo-Hightower,Human Biology,Palo Alto,California,,No,No,1984
+735,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Maria Selene Bose,Maria,Selene,Bose,English,Palo Alto,California,,No,No,1984
+736,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Christopher Samir Boutros,Christopher,Samir,Boutros,Economics,Palo Alto,California,,No,No,1984
+737,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Emily Marie Boyd,Emily,Marie,Boyd,Communication and English,Palo Alto,California,,No,No,1984
+738,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Noriko Tei Boyd,Noriko,Tei,Boyd,Human Biology,Palo Alto,California,,No,No,1984
+739,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Christina Marie Branom,Christina,Marie,Branom,Psychology,Palo Alto,California,,No,Yes,1984
+740,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Matthew Simon Brest,Matthew,Simon,Brest,Public Policy,Palo Alto,California,,No,No,1984
+741,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Naima Diane Bridges,Naima,Diane,Bridges,Human Biology,Palo Alto,California,,No,No,1984
+742,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Eleazar Policarpio Briones II,Eleazar,Policarpio,Briones II,Human Biology,Palo Alto,California,,No,No,1984
+743,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Erin Elizabeth Brizius,Erin,Elizabeth,Brizius,International Relations,Palo Alto,California,,Yes,No,1984
+744,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jennifer Broder,Jennifer,,Broder,Political Science,Palo Alto,California,,No,No,1984
+745,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Erica Gilbert Bromley,Erica,Gilbert,Bromley,Art,Palo Alto,California,,No,No,1984
+746,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Amanda Budan Brophy,Amanda,Budan,Brophy,Economics,Palo Alto,California,,No,Yes,1984
+747,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Barkley Gregory Brosman,Barkley,Gregory,Brosman,International Relations,Palo Alto,California,,Yes,No,1984
+748,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jackson Slim Brossy,Jackson,Slim,Brossy,Public Policy,Palo Alto,California,,No,No,1984
+749,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Alicia Reiko Brown,Alicia,Reiko,Brown,Psychology,Palo Alto,California,,No,No,1984
+750,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",David Jefferey Brown,David,Jefferey,Brown,Comparative Studies in Race and Ethnicity and English,Palo Alto,California,,Yes,No,1984
+751,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Sean Michael Bruich,Sean,Michael,Bruich,Psychology,Palo Alto,California,,No,No,1984
+752,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Tracic Lynn Bryant,Tracic,Lynn,Bryant,Human Biology,Palo Alto,California,,Yes,No,1984
+753,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Alayna Worthing Buckner,Alayna,Worthing,Buckner,Philosophy and Public Policy,Palo Alto,California,,Interdisciplinary Honors Program in Ethics in Society,No,1984
+754,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Brandon Bunke-Quintero,Brandon,,Bunke-Quintero,Human Biology,Palo Alto,California,,No,No,1984
+755,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Andrea Ryerson Burbank,Andrea,Ryerson,Burbank,Linguistics,Palo Alto,California,,No,Yes,1984
+756,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Kiyomi Lillian Sakai Burchill,Kiyomi Lillian,Sakai,Burchill,Comparative Studies in Race and Ethnicity and Political Science,Palo Alto,California,,Yes,Yes,1984
+757,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Lara Pauline Burenin,Lara,Pauline,Burenin,American Studies,Palo Alto,California,,No,No,1984
+758,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",John Tynan Burke,John,Tynan,Burke,German Studies,Palo Alto,California,,Yes,No,1984
+759,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Oliver Brendan Quesada Burke,Oliver Brendan,Quesada,Burke,Political Science,Palo Alto,California,,No,No,1984
+760,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Chelsea Newman Burkett,Chelsea,Newman,Burkett,International Relations,Palo Alto,California,,Yes,Yes,1984
+761,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Amanda Rae Burley,Amanda,Rae,Burley,Political Science,Palo Alto,California,,No,No,1984
+762,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Dawn Renee Butler,Dawn,Renee,Butler,Human Biology and Political Science,Palo Alto,California,,No,No,1984
+763,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Carolyn King Cahill,Carolyn,King,Cahill,History,Palo Alto,California,,Yes,No,1984
+764,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Spencer Kennedy Cahill,Spencer,Kennedy,Cahill,Economics and Political Science,Palo Alto,California,,No,No,1984
+765,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Deanna Call,Deanna,,Call,Human Biology,Palo Alto,California,,No,No,1984
+766,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",David Anthony Campos,David,Anthony,Campos,Communication and Psychology,Palo Alto,California,,No,No,1984
+767,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Christopher Andrew Candelaria,Christopher,Andrew,Candelaria,Economics,Palo Alto,California,,No,No,1984
+768,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Nina Elizabeth Cann-Woode,Nina,Elizabeth,Cann-Woode,Communication and International Relations,Palo Alto,California,,No,No,1984
+769,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Marie Christine Cannizzaro,Marie,Christine,Cannizzaro,Human Biology,Palo Alto,California,,No,No,1984
+770,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Ethan Ezra-Joe Cantil-Voorhees,Ethan,Ezra-Joe,Cantil-Voorhees,Public Policy,Palo Alto,California,,Yes,No,1984
+771,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",James Joseph Caputo,James,Joseph,Caputo,Economics,Palo Alto,California,,No,Yes,1984
+772,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Rocio Nohemi Cardenas,Rocio,Nohemi,Cardenas,Political Science,Palo Alto,California,,Yes,No,1984
+773,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Amy Olivia Carlson,Amy,Olivia,Carlson,Human Biology,Palo Alto,California,,No,No,1984
+774,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",David Grier Carlson,David,Grier,Carlson,Human Biology,Palo Alto,California,,No,No,1984
+775,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Catherine Genevieve Carlton,Catherine,Genevieve,Carlton,History,Palo Alto,California,,No,No,1984
+776,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Victoria Rochelle Carr,Victoria,Rochelle,Carr,Sociology,Palo Alto,California,,No,No,1984
+777,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Casey Patrick Carroll,Casey,Patrick,Carroll,Urban Studies,Palo Alto,California,,No,No,1984
+778,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Sarah Wendy Carroll,Sarah,Wendy,Carroll,Economics,Palo Alto,California,,Yes,No,1984
+779,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Casey AnnaLouise Carter,Casey,AnnaLouise,Carter,English,Palo Alto,California,,Yes,Yes,1984
+780,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Akilah Shant?l Elaine Carter-Davis,Akilah Shant?l,Elaine,Carter-Davis,Political Science,Palo Alto,California,,No,No,1984
+781,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",C. Edward Villasenor Castelo,C. Edward,Villasenor,Castelo,Human Biology,Palo Alto,California,,No,No,1984
+782,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Francisco Cendejas,Francisco,,Cendejas,Urban Studies,Palo Alto,California,,No,No,1984
+783,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Agustin Cervantes,Agustin,,Cervantes,Spanish and Urban Studies,Palo Alto,California,,No,No,1984
+784,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Laurel May Champion,Laurel,May,Champion,Human Biology,Palo Alto,California,,No,No,1984
+785,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Naree Chan,Naree,,Chan,Public Policy,Palo Alto,California,,Yes,No,1984
+786,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Sihong Chan,Sihong,,Chan,Economics,Palo Alto,California,Singapore,No,Yes,1984
+787,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Rishi Chanderraj,Rishi,,Chanderraj,History,Palo Alto,California,,No,No,1984
+788,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Albert Chang,Albert,,Chang,Political Science,Palo Alto,California,,"Interdisciplinary Honors Program in International Security Studies,",Yes,1984
+789,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Brian Yanlang Chang,Brian,Yanlang,Chang,Economics,Palo Alto,California,,No,No,1984
+790,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Christina H. Chang,Christina,H.,Chang,Economics and English,Palo Alto,California,,No,Yes,1984
+791,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Christine Ning Chang,Christine,Ning,Chang,Human Biology,Palo Alto,California,,Yes,No,1984
+792,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Michael Chang,Michael,,Chang,Economics,Palo Alto,California,Taiwan,Yes,No,1984
+793,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Mollie Anne Chapman,Mollie,Anne,Chapman,Anthropological Sciences,Palo Alto,California,,No,Yes,1984
+794,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Sherly Andrea Chavarria,Sherly,Andrea,Chavarria,Psychology,Palo Alto,California,,No,No,1984
+795,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Cyrus Kit Ning Chee,Cyrus Kit,Ning,Chee,History,Palo Alto,California,Canada,No,Yes,1984
+796,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Carolyn Chen,Carolyn,,Chen,Music,Palo Alto,California,,"Interdisciplinary Honors Program in Humanities,",Yes,1984
+797,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Craig Chen,Craig,,Chen,Philosophy,Palo Alto,California,,No,Yes,1984
+798,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Eva E. Chen,Eva,E.,Chen,Psychology,Palo Alto,California,Taiwan,Yes,Yes,1984
+799,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Janine Elizabeth Chen,Janine,Elizabeth,Chen,Urban Studies,Palo Alto,California,,No,No,1984
+800,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",TanYan Chen,TanYan,,Chen,International Relations,Palo Alto,California,,Yes,No,1984
+801,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Adrian Chun Ying Cheng,Adrian Chun,Ying,Cheng,Economics,Palo Alto,California,United Kingdom,No,No,1984
+802,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Payam Cherchian,Payam,,Cherchian,English,Palo Alto,California,,No,No,1984
+803,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Apama Chhibber,Apama,,Chhibber,Human Biology,Palo Alto,California,,No,No,1984
+804,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Ikechukwu Chinedu Chidi,Ikechukwu,Chinedu,Chidi,Political Science,Palo Alto,California,,No,No,1984
+805,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Nneka A. Chike-Obi,Nneka,A.,Chike-Obi,International Relations,Palo Alto,California,,No,No,1984
+806,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Howard Chiou,Howard,,Chiou,Human Biology,Palo Alto,California,,Yes,No,1984
+807,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",James Nicholas Chitty,James,Nicholas,Chitty,"Science, Technology, and Society",Palo Alto,California,,No,No,1984
+808,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Kristina Shona Chiu,Kristina,Shona,Chiu,Economics,Palo Alto,California,,No,No,1984
+809,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Pallen Chiu,Pallen,,Chiu,Political Science,Palo Alto,California,,No,Yes,1984
+810,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Hyun-Young Cho,Hyun-Young,,Cho,East Asian Studies,Palo Alto,California,Republic of Korea,No,No,1984
+811,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Alissa Lai-Ming Chow,Alissa,Lai-Ming,Chow,Human Biology,Palo Alto,California,,No,No,1984
+812,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Matthew Thomas Chwierut,Matthew,Thomas,Chwierut,Humanities,Palo Alto,California,,"Interdisciplinary Honors Program in Humanities,",Yes,1984
+813,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Lance Curtis Cidre,Lance,Curtis,Cidre,Political Science,Palo Alto,California,,No,No,1984
+814,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jennifer Danielle Clark,Jennifer,Danielle,Clark,American Studies,Palo Alto,California,,No,No,1984
+815,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",William Weatherford Touchstone Clayton,William Weatherford,Touchstone,Clayton,English,Palo Alto,California,,Yes,Yes,1984
+816,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jennifer Susan Cohen,Jennifer,Susan,Cohen,Public Policy,Palo Alto,California,,No,Yes,1984
+817,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Joseph Litman Cohen,Joseph,Litman,Cohen,English,Palo Alto,California,,No,No,1984
+818,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Leslie Erin Cohen,Leslie,Erin,Cohen,Economics,Palo Alto,California,,No,No,1984
+819,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Shara Druckman Cohn,Shara,Druckman,Cohn,Human Biology,Palo Alto,California,,Yes,No,1984
+820,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Kristin Anne Cohoon,Kristin,Anne,Cohoon,English and Human Biology,Palo Alto,California,,No,No,1984
+821,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Ian Ward Comfort,Ian,Ward,Comfort,Political Science,Palo Alto,California,,No,No,1984
+822,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Tracy Michelle Conner,Tracy,Michelle,Conner,Linguistics,Palo Alto,California,,No,No,1984
+823,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jack Zachary Conte,Jack,Zachary,Conte,Music,Palo Alto,California,,No,No,1984
+824,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Dina Noemi Contreras,Dina,Noemi,Contreras,Human Biology,Palo Alto,California,,No,No,1984
+825,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Crystal Lee Cook,Crystal,Lee,Cook,English and Psychology,Palo Alto,California,,No,Yes,1984
+826,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Rashel Breann Cordova,Rashel,Breann,Cordova,Urban Studies,Palo Alto,California,,Yes,No,1984
+827,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Joao Richard Oliveira Corey,Joao Richard,Oliveira,Corey,International Relations,Palo Alto,California,,No,No,1984
+828,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Janelie LaToya Cornwall,Janelie,LaToya,Cornwall,Sociology,Palo Alto,California,,No,No,1984
+829,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Christopher Kamel Couvelier,Christopher,Kamel,Couvelier,Economics,Palo Alto,California,Canada,No,Yes,1984
+830,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Kevin Sturgis Coyne,Kevin,Sturgis,Coyne,Economics,Palo Alto,California,,No,No,1984
+831,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Morgan Irene Craven,Morgan,Irene,Craven,International Relations,Palo Alto,California,,No,No,1984
+832,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jacqueline Roxana Crespo,Jacqueline,Roxana,Crespo,Political Science,Palo Alto,California,,No,No,1984
+833,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Gerren Marcus Crochet,Gerren,Marcus,Crochet,Communication and Psychology,Palo Alto,California,,No,No,1984
+834,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Vivian Agatha Crockett,Vivian,Agatha,Crockett,Art,Palo Alto,California,,No,No,1984
+835,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Benjamin Taylor Crosby,Benjamin,Taylor,Crosby,English,Palo Alto,California,,No,No,1984
+836,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Caitlin Anne Crowley,Caitlin,Anne,Crowley,Religious Studies,Palo Alto,California,,Yes,No,1984
+837,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Alicia Marie Cruz,Alicia,Marie,Cruz,Economics,Palo Alto,California,,No,No,1984
+838,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Ashley Lynn Daly,Ashley,Lynn,Daly,English,Palo Alto,California,,No,No,1984
+839,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Carl Linden Dambkowski,Carl,Linden,Dambkowski,Psychology,Palo Alto,California,,Yes,No,1984
+840,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Natalie Anne Dana,Natalie,Anne,Dana,Human Biology,Palo Alto,California,,No,No,1984
+841,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jessica Ann Daniel,Jessica,Ann,Daniel,English,Palo Alto,California,,No,Yes,1984
+842,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Angel Joy Davis,Angel,Joy,Davis,Communication and Economics,Palo Alto,California,,No,No,1984
+843,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Gabriel Joseph Davis,Gabriel,Joseph,Davis,Music,Palo Alto,California,,No,No,1984
+844,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Laura Michelle Davis,Laura,Michelle,Davis,Human Biology,Palo Alto,California,,No,No,1984
+845,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Teresa Marie Davis,Teresa,Marie,Davis,Public Policy,Palo Alto,California,,No,No,1984
+846,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Marco Issac De Leon,Marco,Issac,De Leon,Political Science,Palo Alto,California,,No,No,1984
+847,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Elizabeth Mansari De Rham,Elizabeth,Mansari,De Rham,Urban Studies,Palo Alto,California,,No,No,1984
+848,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Sylvia Nicole Cervantes DeLay,Sylvia Nicole,Cervantes,DeLay,Human Biology,Palo Alto,California,,No,No,1984
+849,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Dawn Victoria DePetris,Dawn,Victoria,DePetris,History,Palo Alto,California,,No,No,1984
+850,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Nia S. DeYounge,Nia,S.,DeYounge,International Relations,Palo Alto,California,,No,No,1984
+851,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Bries Erik Deerrose,Bries,Erik,Deerrose,Psychology,Palo Alto,California,,No,No,1984
+852,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Kristen Jennifer Del Rio,Kristen,Jennifer,Del Rio,Drama and Urban Studies,Palo Alto,California,,No,No,1984
+853,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Allison Paige Dencker,Allison,Paige,Dencker,Public Policy,Palo Alto,California,,No,No,1984
+854,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Divya Madhavi Devasher,Divya,Madhavi,Devasher,International Relations,Palo Alto,California,India,Interdisciplinary Honors Program in International Security Studies,No,1984
+855,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jessika Diaz Lara,Jessika,Diaz,Lara,Human Biology,Palo Alto,California,,No,No,1984
+856,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Liang Dong,Liang,,Dong,Cultural and Social Anthropology,Palo Alto,California,,Yes,Yes,1984
+857,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Rushabh Sharad Doshi,Rushabh,Sharad,Doshi,Economics,Palo Alto,California,,Yes,Yes,1984
+858,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jacob Doty,Jacob,,Doty,English,Palo Alto,California,,No,No,1984
+859,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Tyler Alexander Dumm,Tyler,Alexander,Dumm,Human Biology,Palo Alto,California,,No,No,1984
+860,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Brian Li-Robles Dunlap,Brian,Li-Robles,Dunlap,Public Policy,Palo Alto,California,,No,No,1984
+861,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jonathan Andrew Eccles,Jonathan,Andrew,Eccles,Music,Palo Alto,California,,No,No,1984
+862,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Dean Griffin Eckles,Dean,Griffin,Eckles,Philosophy,Palo Alto,California,,Yes,No,1984
+863,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Richard Wesley Eddy III,Richard,Wesley,Eddy III,Human Biology,Palo Alto,California,,No,No,1984
+864,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Brandon Craig Edmond,Brandon,Craig,Edmond,Human Biology,Palo Alto,California,,No,No,1984
+865,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Adam Abdul Edris,Adam,Abdul,Edris,Economics,Palo Alto,California,,No,No,1984
+866,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Leila Ruhieh Ehsani,Leila,Ruhieh,Ehsani,Human Biology,Palo Alto,California,,No,Yes,1984
+867,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Katie M. Eichner,Katie,M.,Eichner,Classics,Palo Alto,California,,Yes,No,1984
+868,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Benjamin David Eiberger,Benjamin,David,Eiberger,Public Policy,Palo Alto,California,,No,No,1984
+869,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jonathan Isaac Elkin,Jonathan,Isaac,Elkin,Public Policy,Palo Alto,California,,No,No,1984
+870,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Benjamin Buendia Eloy,Benjamin,Buendia,Eloy,Urban Studies,Palo Alto,California,,No,No,1984
+871,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Allison Catherine Empey,Allison,Catherine,Empey,Economics,Palo Alto,California,,No,No,1984
+872,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jeffrey Philip Enquist,Jeffrey,Philip,Enquist,Economics,Palo Alto,California,,Yes,No,1984
+873,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Simon Domingo Escobedo,Simon,Domingo,Escobedo,Human Biology,Palo Alto,California,,No,No,1984
+874,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Sarah Beth Espinosa,Sarah,Beth,Espinosa,Psychology,Palo Alto,California,,No,No,1984
+875,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Matthew Edward Estrada,Matthew,Edward,Estrada,Political Science and Psychology,Palo Alto,California,,Yes,No,1984
+876,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Matthew Xavier Etchemendy,Matthew,Xavier,Etchemendy,Philosophy,Palo Alto,California,,Yes,Yes,1984
+877,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",TG Raul Falcon,TG,Raul,Falcon,Political Science,Palo Alto,California,,No,No,1984
+878,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Johnny Ray Falla,Johnny,Ray,Falla,International Relations,Palo Alto,California,,No,No,1984
+879,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jason H,Jason,,H,Fang,Palo Alto,California,,No,No,1984
+880,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jennifer Marie Farenbaugh,Jennifer,Marie,Farenbaugh,Human Biology,Palo Alto,California,,No,No,1984
+881,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Natalie Marie-Bonacquisti Farrell,Natalie,Marie-Bonacquisti,Farrell,Political Science,Palo Alto,California,,No,No,1984
+882,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Brent John Faville,Brent,John,Faville,Economics,Palo Alto,California,,Yes,No,1984
+883,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Scott Anthony Federici,Scott,Anthony,Federici,Economics,Palo Alto,California,,Yes,No,1984
+884,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Gregory Evan Feinberg,Gregory,Evan,Feinberg,Economics,Palo Alto,California,,No,No,1984
+885,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jessica Morgan Feldman,Jessica,Morgan,Feldman,Human Biology,Palo Alto,California,,Yes,No,1984
+886,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Juan Miguel Felix,Juan,Miguel,Felix,Political Science,Palo Alto,California,,No,No,1984
+887,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Amanda Helen Fenton,Amanda,Helen,Fenton,Public Policy,Palo Alto,California,,No,No,1984
+888,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Carla Harriet Fenves,Carla,Harriet,Fenves,Religious Studies,Palo Alto,California,,"Interdisciplinary Honors Program in Feminist Studies,",Yes,1984
+889,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Matthew Alan Fernandez,Matthew,Alan,Fernandez,Classics and English,Palo Alto,California,,No,No,1984
+890,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Nancy Fernandez,Nancy,,Fernandez,Political Science,Palo Alto,California,,No,Yes,1984
+891,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Colleen Ferrand-Andrew,Colleen,,Ferrand-Andrew,History,Palo Alto,California,,Yes,No,1984
+892,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jonathan Galen Fetter-Vorm,Jonathan,Galen,Fetter-Vorm,History,Palo Alto,California,,Yes,Yes,1984
+893,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Thomas Robert Feulner,Thomas,Robert,Feulner,Philosophy,Palo Alto,California,,Interdisciplinary Honors Program in Ethics in Society,No,1984
+894,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Joanna Marie Fiduccia,Joanna,Marie,Fiduccia,English,Palo Alto,California,,Yes,Yes,1984
+895,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Rachel Marie Chase Field,Rachel Marie,Chase,Field,Human Biology,Palo Alto,California,,No,No,1984
+896,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Harris Gotfrid Fienberg,Harris,Gotfrid,Fienberg,English,Palo Alto,California,,No,No,1984
+897,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Melissa Ann Fiesler,Melissa,Ann,Fiesler,Economics,Palo Alto,California,,No,No,1984
+898,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Ari Benjamin Finkelstein,Ari,Benjamin,Finkelstein,English,Palo Alto,California,,No,No,1984
+899,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Emily Ruth Fletcher,Emily,Ruth,Fletcher,Classics,Palo Alto,California,,Yes,Yes,1984
+900,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Rebecca Morrison Fogel,Rebecca,Morrison,Fogel,Slavic Languages and Literatures and Urban Studies,Palo Alto,California,,No,No,1984
+901,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Benjamin George Fohner,Benjamin,George,Fohner,Human Biology,Palo Alto,California,,Yes,No,1984
+902,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Victoria A. Folayan,Victoria,A.,Folayan,Drama and Psychology,Palo Alto,California,,No,No,1984
+903,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Natalie Jane Foley,Natalie,Jane,Foley,Human Biology,Palo Alto,California,,No,No,1984
+904,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Eric L. Ford,Eric,L.,Ford,Communication,Palo Alto,California,,No,No,1984
+905,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Logan Vincent Ford,Logan,Vincent,Ford,Human Biology,Palo Alto,California,,No,No,1984
+906,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Julia Marguerite Ford-Carther,Julia,Marguerite,Ford-Carther,Communication,Palo Alto,California,,No,No,1984
+907,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Chad Joseph Fore,Chad,Joseph,Fore,Economics,Palo Alto,California,,No,No,1984
+908,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Nicholas Daniel Fram,Nicholas,Daniel,Fram,Public Policy,Palo Alto,California,,Yes,No,1984
+909,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Aileen Candace Frazier,Aileen,Candace,Frazier,Cultural and Social Anthropology and English,Palo Alto,California,,No,No,1984
+910,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Melissa Selena Fusco,Melissa,Selena,Fusco,Philosophy and Slavic Languages and Literatures,Palo Alto,California,,No,Yes,1984
+911,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Joanne Siok Tuan Gan,Joanne,Siok,Tuan Gan,Economics,Palo Alto,California,New Zealand,No,No,1984
+912,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Ker Lih Gan,Ker,Lih,Gan,Economics,Palo Alto,California,,No,No,1984
+913,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Kevin Kuan Gao,Kevin,Kuan,Gao,Economics,Palo Alto,California,,No,No,1984
+914,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Camille C. Garcia,Camille,C.,Garcia,English,Palo Alto,California,,No,No,1984
+915,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Ana Luisa Gardea,Ana,Luisa,Gardea,Political Science,Palo Alto,California,,Yes,No,1984
+916,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Sarah Gash Garmisa,Sarah,Gash,Garmisa,Urban Studies,Palo Alto,California,,No,No,1984
+917,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Rebecca Marguerite Garza,Rebecca,Marguerite,Garza,Human Biology,Palo Alto,California,,No,No,1984
+918,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Artemio Garza de la Puente,Artemio,Garza,de la Puente,Economics,Palo Alto,California,Mexico,No,No,1984
+919,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Sophie Caroline Gassee,Sophie,Caroline,Gassee,Political Science,Palo Alto,California,,No,No,1984
+920,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Corinne Zora Geballe,Corinne,Zora,Geballe,International Relations,Palo Alto,California,,Interdisciplinary Honors Program in Education,No,1984
+921,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Ilena Christine George,Ilena,Christine,George,English,Palo Alto,California,,No,No,1984
+922,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Kenneth S. Gerold,Kenneth,S.,Gerold,Economics and Political Science,Palo Alto,California,,No,No,1984
+923,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Lindsay Marie Gibbon,Lindsay,Marie,Gibbon,Japanese,Palo Alto,California,,Yes,Yes,1984
+924,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Elizabeth Ann Gibbons,Elizabeth,Ann,Gibbons,Economics,Palo Alto,California,,No,No,1984
+925,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Katherine Virginia Gibson,Katherine,Virginia,Gibson,English,Palo Alto,California,,No,No,1984
+926,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Robert Sites Gibson,Robert,Sites,Gibson,Humanities,Palo Alto,California,,Interdisciplinary Honors Program in Humanities,No,1984
+927,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Kathleen Ann Gillum,Kathleen,Ann,Gillum,Anthropological Sciences,Palo Alto,California,,Yes,Yes,1984
+928,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Emily Anne Godfrey,Emily,Anne,Godfrey,International Relations,Palo Alto,California,,No,Yes,1984
+929,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Dawna Michelle Goens,Dawna,Michelle,Goens,Cultural and Social Anthropology,Palo Alto,California,,Yes,No,1984
+930,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Kathryn Anne Goldhahn,Kathryn,Anne,Goldhahn,Sociology,Palo Alto,California,,No,No,1984
+931,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Lauren Sau Won Gong,Lauren,Sau Won,Gong,Human Biology,Palo Alto,California,,No,No,1984
+932,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Kimberly Gonzalez,Kimberly,,Gonzalez,Italian and Political Science,Palo Alto,California,,No,No,1984
+933,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Priscilla Alexandra Gonzalez,Priscilla,Alexandra,Gonzalez,Human Biology,Palo Alto,California,,No,No,1984
+934,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Brian Kruzick Goodman,Brian,Kruzick,Goodman,American Studies,Palo Alto,California,,Yes,Yes,1984
+935,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Andrew L. Gradman,Andrew,L.,Gradman,History,Palo Alto,California,,No,No,1984
+936,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Beth Marie Graham,Beth,Marie,Graham,Human Biology,Palo Alto,California,,No,No,1984
+937,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jennifer Ann Graham,Jennifer,Ann,Graham,History,Palo Alto,California,,Yes,No,1984
+938,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Lilian Elizabeth Grainger,Lilian,Elizabeth,Grainger,Urban Studies,Palo Alto,California,,No,No,1984
+939,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Thomas Angelo Grano,Thomas,Angelo,Grano,Linguistics,Palo Alto,California,,Yes,Yes,1984
+940,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",David Christopher Green,David,Christopher,Green,Sociology,Palo Alto,California,,No,No,1984
+941,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Adi Greif,Adi,,Greif,Political Science,Palo Alto,California,,Yes,No,1984
+942,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Daniel Grier-Roddy,Daniel,,Grier-Roddy,Economics and Philosophy and Religious Studies,Palo Alto,California,,Interdisciplinary Honors Program in Ethics in Society,No,1984
+943,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Malinda Erin Groom,Malinda,Erin,Groom,"Art and Economics, Field: Art History",Palo Alto,California,,No,No,1984
+944,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Irene Guerra,Irene,,Guerra,Comparative Studies in Race and Ethnicity,Palo Alto,California,,No,No,1984
+945,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Christian Diego Guevara,Christian,Diego,Guevara,International Relations and Spanish,Palo Alto,California,,No,No,1984
+946,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jessica Wendy Guh,Jessica,Wendy,Guh,Humanities,Palo Alto,California,,Interdisciplinary Honors Program in Humanities,No,1984
+947,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Shilpa Gulati,Shilpa,,Gulati,Human Biology,Palo Alto,California,,No,No,1984
+948,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Neha Gupta,Neha,,Gupta,Human Biology,Palo Alto,California,,Yes,Yes,1984
+949,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Emily Louise Wittauer Gustafson,Emily Louise,Wittauer,Gustafson,Political Science,Palo Alto,California,,Interdisciplinary Honors Program in Ethics in,No,1984
+950,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Tyler John Gutierrez,Tyler,John,Gutierrez,"Art, Field: Studio Art",Palo Alto,California,,No,No,1984
+951,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Violeta Gutierrez,Violeta,,Gutierrez,Human Biology,Palo Alto,California,,No,No,1984
+952,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Anthony Chun-Hui Ha,Anthony,Chun-Hui,Ha,Urban Studies,Palo Alto,California,,No,No,1984
+953,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jason Curtis Haas,Jason,Curtis,Haas,Sociology,Palo Alto,California,,No,No,1984
+954,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Tracy Nicole Hadnott,Tracy,Nicole,Hadnott,Cultural and Social Anthropology,Palo Alto,California,,No,No,1984
+955,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Tanya Ali Haj-Hassan,Tanya,Ali,Haj-Hassan,Human Biology,Palo Alto,California,Jordan,Yes,Yes,1984
+956,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Shabnam Hakimi,Shabnam,,Hakimi,Psychology,Palo Alto,California,,No,No,1984
+957,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Melissa Anne Halliday,Melissa,Anne,Halliday,Psychology,Palo Alto,California,,No,No,1984
+958,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",John Wesley Hamilton,John,Wesley,Hamilton,Public Policy,Palo Alto,California,,Yes,No,1984
+959,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Kenneth Justin Hamilton,Kenneth,Justin,Hamilton,Philosophy,Palo Alto,California,,No,No,1984
+960,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Tarek Hammam-Howe,Tarek,,Hammam-Howe,Economics,Palo Alto,California,Italy,No,No,1984
+961,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Justice Delson Hampton,Justice,Delson,Hampton,Political Science,Palo Alto,California,,No,No,1984
+962,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Joanna Hyoungyon Han,Joanna,Hyoungyon,Han,English and Psychology,Palo Alto,California,,Yes,No,1984
+963,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Tina Kwang Han,Tina,Kwang,Han,Political Science and Psychology,Palo Alto,California,,No,No,1984
+964,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Ye-Jin Han,Ye-Jin,,Han,Economics,Palo Alto,California,Republic of Korea,No,Yes,1984
+965,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jessica Erin Hanley,Jessica,Erin,Hanley,English,Palo Alto,California,,No,Yes,1984
+966,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Ashley Denae Hannah,Ashley,Denae,Hannah,Drama,Palo Alto,California,,No,No,1984
+967,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Erica Kirsten Hanson,Erica,Kirsten,Hanson,Psychology,Palo Alto,California,,No,No,1984
+968,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Christine Elizabeth Harding,Christine,Elizabeth,Harding,Economics,Palo Alto,California,,No,No,1984
+969,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Emily Claire Harnden,Emily,Claire,Harnden,Human Biology,Palo Alto,California,,No,No,1984
+970,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Meenakshi Ashley Harris,Meenakshi,Ashley,Harris,American Studies,Palo Alto,California,,No,No,1984
+971,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Elizabeth Anne Harrison,Elizabeth,Anne,Harrison,Communication,Palo Alto,California,,No,No,1984
+972,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Christopher Weston Hartfield,Christopher,Weston,Hartfield,International Relations and Psychology,Palo Alto,California,,No,No,1984
+973,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Matthew Ryan Haryasz,Matthew,Ryan,Haryasz,Sociology,Palo Alto,California,,No,No,1984
+974,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Tijani Ibraheem Hassan,Tijani,Ibraheem,Hassan,Human Biology,Palo Alto,California,,No,No,1984
+975,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Christopher Rhodes Havlak,Christopher,Rhodes,Havlak,History,Palo Alto,California,,No,No,1984
+976,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Noah Francis Hawthorne,Noah,Francis,Hawthorne,Human Biology,Palo Alto,California,,Yes,No,1984
+977,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Tiffany Lynn Hawthorne,Tiffany,Lynn,Hawthorne,Communication and Drama,Palo Alto,California,,No,No,1984
+978,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Dara Mendell Hazeghi,Dara,Mendell,Hazeghi,History,Palo Alto,California,,Yes,Yes,1984
+979,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Sarah Elizabeth Heacox,Sarah,Elizabeth,Heacox,Human Biology,Palo Alto,California,,No,No,1984
+980,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Brian Thomas Head,Brian,Thomas,Head,History and Political Science,Palo Alto,California,,No,No,1984
+981,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Bryan H. Heckenlively,Bryan,H.,Heckenlively,Political Science,Palo Alto,California,,Yes,No,1984
+982,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Megan Leigh Heinen,Megan,Leigh,Heinen,Urban Studies,Palo Alto,California,,No,No,1984
+983,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Megan Christine Hellerer,Megan,Christine,Hellerer,International Relations,Palo Alto,California,,No,No,1984
+984,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Jonathan Charles Hendrix,Jonathan,Charles,Hendrix,English and Philosophy,Palo Alto,California,,No,No,1984
+985,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Philip Robert Henry,Philip,Robert,Henry,Economics,Palo Alto,California,,No,No,1984
+986,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Leslie Anne Hernandez,Leslie,Anne,Hernandez,International Relations,Palo Alto,California,,No,No,1984
+987,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Robert Theodore Hernandez,Robert,Theodore,Hernandez,Economics and Political Science,Palo Alto,California,,Yes,No,1984
+988,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Sara Berenice Hernandez-Villegas,Sara,Berenice,Hernandez-Villegas,Cultural and Social Anthropology,Palo Alto,California,Mexico,No,No,1984
+989,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Daniel Herrera,Daniel,,Herrera,Political Science,Palo Alto,California,,No,No,1984
+990,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Alexander Hess,Alexander,,Hess,Economics,Palo Alto,California,Federal Republic of Germany,No,No,1984
+991,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",John Graves Hester Jr.,John,Graves,Hester Jr.,Economics,Palo Alto,California,,No,No,1984
+992,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Lisa Jeanette Higson,Lisa,Jeanette,Higson,Human Biology,Palo Alto,California,,No,No,1984
+993,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",George M. Hill,George,M.,Hill,Political Science,Palo Alto,California,,No,No,1984
+994,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Elizabeth Indira Hira,Elizabeth,Indira,Hira,History,Palo Alto,California,,Yes,No,1984
+995,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Shoney Ann Hixson,Shoney,Ann,Hixson,International Relations,Palo Alto,California,,No,No,1984
+996,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Kenneth Hiu Kan Ho,Kenneth,Hiu,Kan Ho,Economics,Palo Alto,California,New Zealand,No,Yes,1984
+997,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Ashlee Victoria Hodge,Ashlee,Victoria,Hodge,Political Science,Palo Alto,California,,No,No,1984
+998,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Ana Katrina Bordallo Hofschneider,Ana Katrina,Bordallo,Hofschneider,Economics,Palo Alto,California,Northern Mariana Islands,No,No,1984
+999,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Anne Ashcroft Holland,Anne,Ashcroft,Holland,Human Biology,Palo Alto,California,,No,No,1984
+1000,Stanford University,School of Humanities and Sciences,Bachelor of Arts,"June 18, 2006",Nicholas Garber Hollon,Nicholas,Garber,Hollon,Psychology,Palo Alto,California,,Yes,Yes,1984
